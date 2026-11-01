@@ -22,12 +22,14 @@ jobs:
       - name: Check for a standalone custom domain
         id: domain
         shell: bash
+        env:
+          PUBLISH_SITE: ${{ vars.PUBLISH_SITE }}
         run: |
-          if [ -s CNAME ]; then
+          if [ -s CNAME ] && [ "$PUBLISH_SITE" = "true" ]; then
             echo "configured=true" >> "$GITHUB_OUTPUT"
           else
             echo "configured=false" >> "$GITHUB_OUTPUT"
-            echo "Publishing is disabled until a standalone custom domain is configured."
+            echo "Publishing is disabled until the separate domain is owned, configured, and PUBLISH_SITE is enabled."
           fi
       - run: npm test
       - run: npm run check
@@ -47,6 +49,17 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - name: Verify the separate domain in Pages settings
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EXPECTED_DOMAIN: mathematics-videos.com
+        shell: bash
+        run: |
+          actual_domain=$(gh api "repos/$GITHUB_REPOSITORY/pages" --jq .cname)
+          if [ "$actual_domain" != "$EXPECTED_DOMAIN" ]; then
+            echo "Configure the separate custom domain in this repository's Pages settings before publishing."
+            exit 1
+          fi
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
