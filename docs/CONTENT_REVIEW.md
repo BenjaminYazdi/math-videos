@@ -8,6 +8,12 @@ The channel listing was available through YouTube's public metadata endpoint on 
 
 This is a title-and-thumbnail review, not an end-to-end viewing of 350 videos. Larger thumbnails and additional preview frames were used for ambiguous cases. A thumbnail confirms the visible recording style at that point, not every frame of the video. Successful embed metadata is not proof that playback works in every region or browser. The livestream has no reported duration and did not return normal embed metadata. Its embedded player was checked directly and reported **Live stream offline** on November 1, 2026. It is excluded from the website and from the 350-video count.
 
+## Public channel recheck — November 1, 2026
+
+YouTube's public channel header and About metadata both report **350 videos**. The About metadata reports **8,480 views**. A fresh four-page uploads listing again returned 351 unique entries: the 350 recorded lessons already on the website and the excluded offline placeholder. No additional recorded lessons were found, and no website video was absent from the listing.
+
+The homepage uses **350 videos** and **more than 8,000 views**, rather than unsupported claims of 354 videos, tens of thousands of views, or 100,000+ views. These are public channel totals, not private YouTube Studio analytics. See `channel-statistics.json` for the dated, sanitized evidence. Raw YouTube responses remain outside the repository.
+
 ## Recovered uploads
 
 | ID | Title | Category | Recording |
