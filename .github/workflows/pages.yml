@@ -12,20 +12,32 @@ concurrency:
 jobs:
   check:
     runs-on: ubuntu-latest
+    outputs:
+      domain_configured: ${{ steps.domain.outputs.configured }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Check for a standalone custom domain
+        id: domain
+        shell: bash
+        run: |
+          if [ -s CNAME ]; then
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+            echo "Publishing is disabled until a standalone custom domain is configured."
+          fi
       - run: npm test
       - run: npm run check
       - run: npm run build
       - uses: actions/upload-pages-artifact@v3
-        if: github.event_name != 'pull_request'
+        if: github.event_name != 'pull_request' && steps.domain.outputs.configured == 'true'
         with:
           path: dist
   deploy:
-    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && needs.check.outputs.domain_configured == 'true'
     needs: check
     runs-on: ubuntu-latest
     permissions:

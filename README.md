@@ -22,26 +22,23 @@ npm run build # deployable site in dist/
 
 To preview the production output: `SERVE_DIR=dist npm run dev`.
 
-## Publish on GitHub Pages
+## Hosting status: waiting for a separate domain
 
-Public repositories are eligible for GitHub Pages on GitHub Free. A personal site does not prevent hosting another project site: GitHub allows one user site per account and one project site per repository. See [GitHub's official explanation](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages).
+The public GitHub repository is ready. **GitHub Pages is currently unpublished**, and automatic publishing is disabled until a root `CNAME` file specifies the separate domain Benjamin chooses. Validation still runs on every push and pull request.
 
-1. Put this code in a **public** repository named `math-videos`.
-2. Open **Settings → Pages → Build and deployment → Source → GitHub Actions**.
-3. Push to `main`, or run **Check and deploy Math Videos** from the Actions tab.
-4. The workflow checks the catalog, runs the tests, builds `dist/`, and publishes it. Pull requests run validation without deploying.
+GitHub Pages hosting for a public repository is available on GitHub Free. You can give this project its own custom domain without changing the personal site's domain or buying another GitHub plan. Buying and renewing a domain from a registrar is separate. See [GitHub's hosting explanation](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages) and [custom-domain guide](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
 
-The normal project address is `https://benjaminyazdi.github.io/math-videos/`. GitHub can route project sites through a user site's existing custom domain; the actual deployment URL may therefore be under `benjaminyazdi.com/math-videos/` until this project has its own domain. That does not require modifying the personal-site repository or its DNS.
+### Publish at the chosen domain
 
-GitHub Pages has [usage limits](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits); it is not unlimited hosting. This small static catalog embeds video hosted by YouTube rather than storing the video files in GitHub.
+1. Choose and obtain the separate domain.
+2. Add a root `CNAME` file containing only that domain (no protocol, path, or trailing slash).
+3. Enable Pages **for this repository** at **Settings → Pages → Source → GitHub Actions**, and set the matching custom domain. Leave the personal-site repository and its domain settings unchanged.
+4. Configure the new domain's DNS using GitHub's custom-domain guide, and enable HTTPS when available.
+5. Push to `main` or manually run **Check and deploy Math Videos**. The workflow validates, builds, and publishes only when the `CNAME` file exists and is nonempty.
 
-## Use your own domain later
+Without its own custom domain, a project site on this GitHub account inherits the personal site's domain and appears under a path. **That is not the intended address for this project.** The workflow deliberately skips publication while no separate domain is configured.
 
-GitHub Pages supports a custom domain without an additional GitHub hosting fee. Buying and renewing a domain from a registrar is separate.
-
-When you have chosen a domain, follow [GitHub's custom domain guide](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site). Configure it **only for this repository**; do not replace the personal site's domain. Add a root `CNAME` file containing just the new domain, set the matching custom domain in this repository's Pages settings, configure the registrar's DNS as GitHub directs, and enable HTTPS when available. The build automatically copies `CNAME` if it exists. No domain is preconfigured here.
-
-A subdomain of a domain you already own is another option, such as `math.example.com`. A new paid domain is not required merely because you already have a user Pages site.
+The deployable site is in `dist/`. It also works with another static hosting provider if desired. Video files remain on YouTube, so the site itself is small. GitHub Pages has [usage limits](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits).
 
 ## Content and organization
 
