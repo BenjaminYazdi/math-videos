@@ -24,7 +24,7 @@ The `www` CNAME target is the account hostname only, without a repository path. 
 - Custom domain: **mathematicsvideos.org**
 - Actions variable: **PUBLISH_SITE=true**
 - Workflow: **Check and deploy Math Videos**
-- HTTPS: enable **Enforce HTTPS** once GitHub provisions the certificate.
+- HTTPS: certificate approved for the apex and `www`; **Enforce HTTPS** enabled on November 1, 2026.
 
 The workflow validates that Pages is configured with exactly this domain before deploying. The `CNAME` file is copied into the static build, but Actions publishing also requires the custom domain in repository Settings → Pages.
 
