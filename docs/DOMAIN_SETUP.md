@@ -1,12 +1,10 @@
 # mathematicsvideos.org
 
-Domain purchased through Dynadot. This guide records the DNS and GitHub Pages configuration for the standalone Math Videos website.
+The Math Videos domain is registered through **Dynadot** and connected to **BenjaminYazdi/math-videos** on GitHub Pages. Domain ownership is verified in BenjaminYazdi's GitHub account. Auto-renew is disabled: **Manual Renewal** is selected. The current registration expires **November 1, 2027**.
 
-## After purchasing the domain
+## DNS configuration
 
-1. In GitHub account Settings → Pages, add and verify `mathematicsvideos.org`. GitHub provides the ownership-verification TXT record; add it in the registrar's DNS settings and retain it after verification.
-2. In **BenjaminYazdi/math-videos → Settings → Pages**, enable GitHub Actions publishing and set **Custom domain** to `mathematicsvideos.org`. This setting applies only to the new repository. Do not edit the personal site's Pages settings.
-3. In the new domain's Dynadot DNS settings, replace its parking/website records as needed with these GitHub Pages records:
+Use Dynadot DNS with these records (TTL: 5 minutes):
 
 | Type | Host | Value |
 | --- | --- | --- |
@@ -15,18 +13,30 @@ Domain purchased through Dynadot. This guide records the DNS and GitHub Pages co
 | A | @ | 185.199.110.153 |
 | A | @ | 185.199.111.153 |
 | CNAME | www | benjaminyazdi.github.io |
+| TXT | _github-pages-challenge-BenjaminYazdi | Retain the verification value supplied by GitHub account Settings → Pages. |
 
-The `www` CNAME target is the account hostname only. It must not contain `/math-videos`. The separate custom domain is what routes this site independently; this does not replace `benjaminyazdi.com`.
+The `www` CNAME target is the account hostname only, without a repository path. GitHub routes the separate custom domain to this repository. Keep the verification TXT record in place.
 
-4. In repository **Settings → Secrets and variables → Actions → Variables**, add `PUBLISH_SITE` with value `true`. This is a non-secret deployment switch.
-5. Run **Check and deploy Math Videos** in Actions. The deployment verifies that the Pages custom-domain setting is exactly `mathematicsvideos.org` before publishing.
-6. In repository Pages settings, enable **Enforce HTTPS** once GitHub has provisioned the certificate. DNS and certificate setup can take up to 24 hours. Visit both the apex domain and `www` to confirm that both reach the site.
+## GitHub Pages configuration
 
-The source `CNAME` file is an editable record of the intended domain and is copied into the static build. Because this project deploys through GitHub Actions, that file alone does not configure GitHub's custom-domain setting.
+- Repository: **BenjaminYazdi/math-videos**
+- Publishing source: **GitHub Actions**
+- Custom domain: **mathematicsvideos.org**
+- Actions variable: **PUBLISH_SITE=true**
+- Workflow: **Check and deploy Math Videos**
+- HTTPS: enable **Enforce HTTPS** once GitHub provisions the certificate.
 
-GitHub Pages hosting is available on GitHub Free for public repositories. Domain registration/renewal is separate. The site needs no paid API, backend, or Dynadot website subscription.
+The workflow validates that Pages is configured with exactly this domain before deploying. The `CNAME` file is copied into the static build, but Actions publishing also requires the custom domain in repository Settings → Pages.
 
-Checked against GitHub's official documentation on November 1, 2026:
+DNS and HTTPS certificate changes can take up to 24 hours. Both the apex domain and `www` should reach the site, with `www` redirecting to the apex. This configuration applies only to Math Videos; do not change the personal site's domain settings.
+
+## Maintenance
+
+Renew the domain manually through Dynadot before November 1, 2027. GitHub Pages hosting is free for this public repository; no paid website-builder plan, API, or backend is required.
+
+If changing domains, update repository Pages settings, `CNAME`, the workflow's `EXPECTED_DOMAIN`, DNS, and these documents together.
+
+Official references:
 
 - [Custom domains and DNS values](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 - [Domain verification](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages)

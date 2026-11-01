@@ -22,25 +22,17 @@ npm run build # deployable site in dist/
 
 To preview the production output: `SERVE_DIR=dist npm run dev`.
 
-## Hosting status: prepared for mathematics-videos.com
+## Hosting: mathematicsvideos.org
 
-The public GitHub repository is ready. **GitHub Pages is currently unpublished**, and automatic publishing is disabled until the planned domain is purchased and configured. The root `CNAME` file records **mathematics-videos.com** as the intended address; it does not claim or activate the domain. Validation still runs on every push and pull request.
+The standalone website is hosted on GitHub Pages at **https://mathematicsvideos.org/**. The domain is registered through Dynadot, with manual renewal selected. Its registration expires November 1, 2027; renew it manually before then to keep the address.
 
-GitHub Pages hosting for a public repository is available on GitHub Free. You can give this project its own custom domain without changing the personal site's domain or buying another GitHub plan. Buying and renewing a domain from a registrar is separate. See [GitHub's hosting explanation](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages) and [custom-domain guide](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
+GitHub Pages uses the repository's **GitHub Actions** publishing source and the custom domain `mathematicsvideos.org`. The repository Actions variable **PUBLISH_SITE** is `true`. Each push to `main` checks the catalog, runs tests, builds the static site, and deploys it. Pull requests run validation without deploying.
 
-### Publish at the chosen domain
+The deployment checks that this repository's Pages custom domain is exactly `mathematicsvideos.org` before publishing. The root `CNAME` records the domain and is included in the build; with Actions publishing, the actual domain must also be configured in repository Pages settings.
 
-1. Purchase **mathematics-videos.com** from the chosen registrar. A domain-only purchase is enough; a Squarespace website subscription is not needed for GitHub Pages hosting.
-2. Verify domain ownership in GitHub profile Settings → Pages using GitHub’s supplied TXT record. The root `CNAME` file is already prepared with the intended domain.
-3. Enable Pages **for this repository** at **Settings → Pages → Source → GitHub Actions**, and set the matching custom domain. Leave the personal-site repository and its domain settings unchanged.
-4. Configure the new domain's DNS using GitHub's custom-domain guide, and enable HTTPS when available.
-5. Set the repository Actions variable **PUBLISH_SITE** to `true` only after the domain and DNS are ready. Push to `main` or manually run **Check and deploy Math Videos**. Publishing requires this explicit switch, and the deployment job verifies that this repository’s Pages custom domain is exactly `mathematics-videos.com`.
+See [docs/DOMAIN_SETUP.md](docs/DOMAIN_SETUP.md) for DNS records and domain maintenance. GitHub Pages hosting for this public repository is free; domain renewal is paid separately. No registrar website-builder subscription is needed. The personal site at `benjaminyazdi.com` has its own unchanged configuration.
 
-Without its own custom domain, a project site on this GitHub account inherits the personal site's domain and appears under a path. **That is not the intended address for this project.** The workflow deliberately skips publication until the domain is configured and the publishing switch is enabled. For GitHub Actions publishing, the custom domain must be set in repository Pages settings; the `CNAME` file alone does not configure it.
-
-The deployable site is in `dist/`. It also works with another static hosting provider if desired. Video files remain on YouTube, so the site itself is small. GitHub Pages has [usage limits](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits).
-
-See [docs/DOMAIN_SETUP.md](docs/DOMAIN_SETUP.md) for the exact DNS records to use after purchase.
+The deployable site is in `dist/`. It also works with another static hosting provider. Video files remain on YouTube, so the site itself is small. GitHub Pages has [usage limits](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits).
 
 ## Content and organization
 
