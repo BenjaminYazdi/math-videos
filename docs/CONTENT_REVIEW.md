@@ -12,7 +12,7 @@ This is a title-and-thumbnail review, not an end-to-end viewing of 350 videos. L
 
 YouTube's public channel header and About metadata both report **350 videos**. The About metadata reports **8,480 views**. A fresh four-page uploads listing again returned 351 unique entries: the 350 recorded lessons already on the website and the excluded offline placeholder. No additional recorded lessons were found, and no website video was absent from the listing.
 
-The homepage uses **350 videos** and **more than 8,000 views**, rather than unsupported claims of 354 videos, tens of thousands of views, or 100,000+ views. These are public channel totals, not private YouTube Studio analytics. See `channel-statistics.json` for the dated, sanitized evidence. Raw YouTube responses remain outside the repository.
+The homepage uses **350 videos** based on the complete public inventory. Benjamin subsequently confirmed that his videos have received **tens of thousands of views** and requested that wording; the homepage uses this owner-reported figure. It was not independently verified and is distinct from the public channel About count of 8,480 observed during this check. Private YouTube Studio analytics were not accessed. See `channel-statistics.json` for the dated evidence and attribution. Raw YouTube responses remain outside the repository.
 
 ## Recovered uploads
 
