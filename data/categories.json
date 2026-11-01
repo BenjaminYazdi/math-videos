@@ -1,0 +1,58 @@
+[
+  {
+    "id": "algebra",
+    "name": "Algebra",
+    "description": "Expressions, equations, and the patterns behind them.",
+    "symbol": "x²",
+    "color": "sage"
+  },
+  {
+    "id": "geometry",
+    "name": "Geometry",
+    "description": "Triangles, circles, and a different way to see a problem.",
+    "symbol": "△",
+    "color": "peach"
+  },
+  {
+    "id": "trigonometry",
+    "name": "Trigonometry",
+    "description": "Angles, identities, and the language of waves.",
+    "symbol": "sin θ",
+    "color": "lavender"
+  },
+  {
+    "id": "calculus",
+    "name": "Calculus",
+    "description": "Limits, derivatives, integrals, and infinite series.",
+    "symbol": "∫",
+    "color": "sage"
+  },
+  {
+    "id": "probability",
+    "name": "Probability & Counting",
+    "description": "Count the possibilities. Make sense of chance.",
+    "symbol": "⅙",
+    "color": "yellow"
+  },
+  {
+    "id": "number-theory",
+    "name": "Number Theory & Proofs",
+    "description": "Primes, digits, divisibility, and mathematical reasoning.",
+    "symbol": "ℕ",
+    "color": "lavender"
+  },
+  {
+    "id": "vectors",
+    "name": "Vectors",
+    "description": "Direction, magnitude, dot products, and cross products.",
+    "symbol": "v⃗",
+    "color": "peach"
+  },
+  {
+    "id": "competition",
+    "name": "Competition Problems",
+    "description": "Work through AMC, AIME, and other contest problems.",
+    "symbol": "★",
+    "color": "yellow"
+  }
+]

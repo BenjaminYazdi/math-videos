@@ -1,0 +1,4821 @@
+[
+  {
+    "id": "j-88mSPbQRQ",
+    "title": "The Cross Product part 2",
+    "originalTitle": "The Cross Product part 2",
+    "category": "vectors",
+    "topic": "Cross Product",
+    "format": "whiteboard",
+    "sourceOrder": 0,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "12:42",
+    "channelOrder": 1
+  },
+  {
+    "id": "LZ5p7HOCQMg",
+    "title": "The Cross Product part 1",
+    "originalTitle": "The Cross Product part 1",
+    "category": "vectors",
+    "topic": "Cross Product",
+    "format": "whiteboard",
+    "sourceOrder": 1,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "8:01",
+    "channelOrder": 2
+  },
+  {
+    "id": "dC_tFYv1rGk",
+    "title": "Dot Product part 3",
+    "originalTitle": "Dot Product part 3",
+    "category": "vectors",
+    "topic": "Dot Product",
+    "format": "whiteboard",
+    "sourceOrder": 2,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "6:37",
+    "channelOrder": 3
+  },
+  {
+    "id": "T_PSFS-rTow",
+    "title": "Dot Product part 2",
+    "originalTitle": "Dot Product part 2",
+    "category": "vectors",
+    "topic": "Dot Product",
+    "format": "whiteboard",
+    "sourceOrder": 3,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "9:04",
+    "channelOrder": 4
+  },
+  {
+    "id": "tNH1VtLE3Bg",
+    "title": "Dot Product part 1",
+    "originalTitle": "Dot Product part 1",
+    "category": "vectors",
+    "topic": "Dot Product",
+    "format": "whiteboard",
+    "sourceOrder": 4,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "6:12",
+    "channelOrder": 5
+  },
+  {
+    "id": "bDR2yXKh-Gw",
+    "title": "Probability: Expected Value",
+    "originalTitle": "Probability: Expected Value",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "whiteboard",
+    "sourceOrder": 5,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "6:21",
+    "channelOrder": 6
+  },
+  {
+    "id": "FLejpcJh38I",
+    "title": "Geometric Probability",
+    "originalTitle": "Geometric Probability",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "whiteboard",
+    "sourceOrder": 6,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "7:18",
+    "channelOrder": 7
+  },
+  {
+    "id": "AUPGyc5g_BI",
+    "title": "Complementary Counting and Probability",
+    "originalTitle": "Complementary Counting and Probability",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "whiteboard",
+    "sourceOrder": 7,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "6:43",
+    "channelOrder": 8
+  },
+  {
+    "id": "ROK72ToeHRg",
+    "title": "Casework and Probability",
+    "originalTitle": "Casework and Probability",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "whiteboard",
+    "sourceOrder": 8,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "9:10",
+    "channelOrder": 9
+  },
+  {
+    "id": "nujJkmBzoLQ",
+    "title": "Probability and Combinations",
+    "originalTitle": "Probability and Combinations",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "whiteboard",
+    "sourceOrder": 9,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "6:08",
+    "channelOrder": 10
+  },
+  {
+    "id": "9DmnKt4eQ3g",
+    "title": "Probability: Compound Events and Counting",
+    "originalTitle": "Probability: Compound Events and Counting",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "whiteboard",
+    "sourceOrder": 10,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "8:27",
+    "channelOrder": 11
+  },
+  {
+    "id": "PGfv5UB4DDg",
+    "title": "Probability: Compound Events",
+    "originalTitle": "Probability: Compound Events",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "whiteboard",
+    "sourceOrder": 11,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:08",
+    "channelOrder": 12
+  },
+  {
+    "id": "ToKwG72TLGs",
+    "title": "Intro to Probability",
+    "originalTitle": "Into to Probability",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "whiteboard",
+    "sourceOrder": 12,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "7:30",
+    "channelOrder": 13
+  },
+  {
+    "id": "d0ggjlFBasg",
+    "title": "AP Calculus BC 2019 — Problem 19",
+    "originalTitle": "AP Calcu BC 2019 Problem #19",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "paper",
+    "sourceOrder": 13,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:05",
+    "channelOrder": 14
+  },
+  {
+    "id": "1VdNzHnd9ag",
+    "title": "AP Calculus BC 2019 — Problem 17",
+    "originalTitle": "AP Calculus BC 2019 #17",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "paper",
+    "sourceOrder": 14,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "6:14",
+    "channelOrder": 15
+  },
+  {
+    "id": "rkopXkG8It8",
+    "title": "AP Calculus BC 2019 — Problem 18",
+    "originalTitle": "AP Calcu BC 2019 Problem #18",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "paper",
+    "sourceOrder": 15,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:02",
+    "channelOrder": 16
+  },
+  {
+    "id": "hdqvL4HK1wU",
+    "title": "AP Calculus BC 2019 — Problem 15",
+    "originalTitle": "AP Calculus BC Problem #15",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "paper",
+    "sourceOrder": 16,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:29",
+    "channelOrder": 17
+  },
+  {
+    "id": "6IpbBytsXWg",
+    "title": "AP Calculus BC 2019 — Problem 16",
+    "originalTitle": "AP Calculus BC Problem #16",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "paper",
+    "sourceOrder": 17,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:18",
+    "channelOrder": 18
+  },
+  {
+    "id": "PyRFTl8r7Es",
+    "title": "AP Calculus BC 2019 — Problem 14",
+    "originalTitle": "AP Calculus BC 2019 Problem #14",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "paper",
+    "sourceOrder": 18,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:16",
+    "channelOrder": 19
+  },
+  {
+    "id": "UrFwhuouxO0",
+    "title": "AP Calculus BC 2019 — Problem 13",
+    "originalTitle": "AP Calculus BC 2019 Problem #13",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "paper",
+    "sourceOrder": 19,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:05",
+    "channelOrder": 20
+  },
+  {
+    "id": "dZPtv7mUPv8",
+    "title": "AP Calculus BC 2019 — Problem 11",
+    "originalTitle": "AP Calculus BC 2019 Problem #11",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "paper",
+    "sourceOrder": 20,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:59",
+    "channelOrder": 21
+  },
+  {
+    "id": "Tn7mgBSJ50Q",
+    "title": "AP Calculus BC 2019 — Problem 12",
+    "originalTitle": "AP Calculus BC 2019 #12",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "paper",
+    "sourceOrder": 21,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:48",
+    "channelOrder": 22
+  },
+  {
+    "id": "B-2Gg3ak87c",
+    "title": "AP Calculus BC 2019 — Problem 10",
+    "originalTitle": "AP Calculus BC 2019 Problem 10",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "paper",
+    "sourceOrder": 22,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:44",
+    "channelOrder": 23
+  },
+  {
+    "id": "SHCHlO7R1Z0",
+    "title": "AP Calculus BC 2019 — Problem 9",
+    "originalTitle": "AP Calculus BC 2019 Problem Number Nine",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "whiteboard",
+    "sourceOrder": 23,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:36",
+    "channelOrder": 24
+  },
+  {
+    "id": "yu6Z3KVA2ZQ",
+    "title": "AP Calculus BC 2019 — Problem 8",
+    "originalTitle": "AP Calculus BC 2019 Problem Number Eight",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "whiteboard",
+    "sourceOrder": 24,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:27",
+    "channelOrder": 25
+  },
+  {
+    "id": "OGmbAosFiPk",
+    "title": "AP Calculus BC 2019 — Problem 7",
+    "originalTitle": "AP Calculus BC 2019 Problem Number Seven",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "whiteboard",
+    "sourceOrder": 25,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:47",
+    "channelOrder": 26
+  },
+  {
+    "id": "4eA3PcZMfFU",
+    "title": "AP Calculus BC 2019 — Problem 6",
+    "originalTitle": "AP Calculus BC 2019 Problem Number Six",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "whiteboard",
+    "sourceOrder": 26,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:04",
+    "channelOrder": 27
+  },
+  {
+    "id": "c8aNMb1rb5M",
+    "title": "AP Calculus BC 2019 — Problem 4",
+    "originalTitle": "AP Calculus BC 2019 Problem Number Four",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "whiteboard",
+    "sourceOrder": 27,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:14",
+    "channelOrder": 28
+  },
+  {
+    "id": "iJ8cveRp9rk",
+    "title": "AP Calculus BC 2019 — Problem 5",
+    "originalTitle": "AP Calculus BC 2019 Problem Number Five",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "whiteboard",
+    "sourceOrder": 28,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:22",
+    "channelOrder": 29
+  },
+  {
+    "id": "vVN27_fD21Y",
+    "title": "AP Calculus BC 2019 — Problem 2",
+    "originalTitle": "Ap Calculus BC 2019 Problem Number Two",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "whiteboard",
+    "sourceOrder": 29,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:26",
+    "channelOrder": 30
+  },
+  {
+    "id": "Nd9kyV8masQ",
+    "title": "AP Calculus BC 2019 — Problem 3",
+    "originalTitle": "Ap Calculus BC 2019 Problem Number Three",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "whiteboard",
+    "sourceOrder": 30,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:23",
+    "channelOrder": 31
+  },
+  {
+    "id": "rV1z7OgsDxo",
+    "title": "AP Calculus BC 2019 — Problem 1",
+    "originalTitle": "Ap Calculus BC 2019 Problem Number One",
+    "category": "calculus",
+    "topic": "AP Calculus BC 2019",
+    "format": "whiteboard",
+    "sourceOrder": 31,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:28",
+    "channelOrder": 32
+  },
+  {
+    "id": "TEHV9sYMFBM",
+    "title": "Convergent or Divergent (part 14)",
+    "originalTitle": "Convergent or Divergent (part 14)",
+    "category": "calculus",
+    "topic": "Convergence & Series",
+    "format": "paper",
+    "sourceOrder": 32,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:43",
+    "channelOrder": 33
+  },
+  {
+    "id": "JovAvBlU8-Y",
+    "title": "Convergent or Divergent (part 13)",
+    "originalTitle": "Convergent or Divergent (part 13)",
+    "category": "calculus",
+    "topic": "Convergence & Series",
+    "format": "paper",
+    "sourceOrder": 33,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:55",
+    "channelOrder": 34
+  },
+  {
+    "id": "PWNbGSsrGyg",
+    "title": "Convergent or Divergent (part 12)",
+    "originalTitle": "Convergent or Divergent (part 12)",
+    "category": "calculus",
+    "topic": "Convergence & Series",
+    "format": "paper",
+    "sourceOrder": 34,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:39",
+    "channelOrder": 35
+  },
+  {
+    "id": "SOH_Zgl4kz8",
+    "title": "Convergent or Divergent (part 11)",
+    "originalTitle": "Convergent or Divergent (part 11)",
+    "category": "calculus",
+    "topic": "Convergence & Series",
+    "format": "paper",
+    "sourceOrder": 35,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:02",
+    "channelOrder": 36
+  },
+  {
+    "id": "xViVg33rtnw",
+    "title": "Convergent or Divergent (part 10)",
+    "originalTitle": "Convergent or Divergent (part 10)",
+    "category": "calculus",
+    "topic": "Convergence & Series",
+    "format": "paper",
+    "sourceOrder": 36,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:46",
+    "channelOrder": 37
+  },
+  {
+    "id": "5teZLDJZzb0",
+    "title": "Convergent or Divergent (part 9)",
+    "originalTitle": "Convergent or Divergent (part 9)",
+    "category": "calculus",
+    "topic": "Convergence & Series",
+    "format": "paper",
+    "sourceOrder": 37,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:24",
+    "channelOrder": 38
+  },
+  {
+    "id": "SCZlVxPMZTI",
+    "title": "Convergent or Divergent (part 8)",
+    "originalTitle": "Convergent or Divergent (part 8)",
+    "category": "calculus",
+    "topic": "Convergence & Series",
+    "format": "paper",
+    "sourceOrder": 38,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:30",
+    "channelOrder": 39
+  },
+  {
+    "id": "hpKtgV6uyi8",
+    "title": "Convergent or Divergent (part 7)",
+    "originalTitle": "Convergent or Divergent (part 7)",
+    "category": "calculus",
+    "topic": "Convergence & Series",
+    "format": "paper",
+    "sourceOrder": 39,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:35",
+    "channelOrder": 40
+  },
+  {
+    "id": "ECweDIRuD4k",
+    "title": "Convergent or Divergent (part 6)",
+    "originalTitle": "Convergent or Divergent (part 6)",
+    "category": "calculus",
+    "topic": "Convergence & Series",
+    "format": "paper",
+    "sourceOrder": 40,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:14",
+    "channelOrder": 41
+  },
+  {
+    "id": "NQh3yBCH6mM",
+    "title": "Convergent or Divergent (part 4)",
+    "originalTitle": "Convergent or Divergent (part 4)",
+    "category": "calculus",
+    "topic": "Convergence & Series",
+    "format": "paper",
+    "sourceOrder": 41,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:37",
+    "channelOrder": 42
+  },
+  {
+    "id": "IVihQfUHBL0",
+    "title": "Convergent or Divergent (part 5)",
+    "originalTitle": "Convergent or Divergent (part 5)",
+    "category": "calculus",
+    "topic": "Convergence & Series",
+    "format": "paper",
+    "sourceOrder": 42,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:18",
+    "channelOrder": 43
+  },
+  {
+    "id": "MINM81hINhw",
+    "title": "Convergent or Divergent (part 3)",
+    "originalTitle": "Convergent or Divergent (part 3)",
+    "category": "calculus",
+    "topic": "Convergence & Series",
+    "format": "paper",
+    "sourceOrder": 43,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "0:58",
+    "channelOrder": 44
+  },
+  {
+    "id": "91hOfa4SAq4",
+    "title": "Convergent or Divergent (part 2)",
+    "originalTitle": "Convergent or Divergent (part 2)",
+    "category": "calculus",
+    "topic": "Convergence & Series",
+    "format": "paper",
+    "sourceOrder": 44,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:30",
+    "channelOrder": 45
+  },
+  {
+    "id": "DBZLf19-SD4",
+    "title": "Convergent or Divergent (part 1)",
+    "originalTitle": "Convergent or Divergent (part 1)",
+    "category": "calculus",
+    "topic": "Convergence & Series",
+    "format": "paper",
+    "sourceOrder": 45,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:41",
+    "channelOrder": 46
+  },
+  {
+    "id": "WoKxyRkYpg8",
+    "title": "Flag Colors (war on America???)",
+    "originalTitle": "Flag Colors (war on America???)",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "paper",
+    "sourceOrder": 46,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:08",
+    "channelOrder": 47
+  },
+  {
+    "id": "7HavyhQaAq4",
+    "title": "OCTAGON ATTACK!!! (scary)",
+    "originalTitle": "OCTAGON ATTACK!!! (scary)",
+    "category": "geometry",
+    "topic": "Area & Geometry Problems",
+    "format": "paper",
+    "sourceOrder": 47,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:21",
+    "channelOrder": 48
+  },
+  {
+    "id": "lhTR5CNqcD0",
+    "title": "Rolling Three Dice Sums'",
+    "originalTitle": "Rolling Three Dice Sums'",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "paper",
+    "sourceOrder": 48,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:44",
+    "channelOrder": 49
+  },
+  {
+    "id": "Ntz11XIPRVk",
+    "title": "Selecting Consecutive Numbers",
+    "originalTitle": "Selecting Consecutive  Numbers",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "paper",
+    "sourceOrder": 49,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:46",
+    "channelOrder": 50
+  },
+  {
+    "id": "O8-osMAicUM",
+    "title": "Rolling Dice Six Times (Gone Wrong)",
+    "originalTitle": "Rolling Dice Six Times (Gone Wrong)",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "paper",
+    "sourceOrder": 50,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:47",
+    "channelOrder": 51
+  },
+  {
+    "id": "wBmTOL3NBAA",
+    "title": "Sock Pairs",
+    "originalTitle": "Sock Pairs",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "paper",
+    "sourceOrder": 51,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:23",
+    "channelOrder": 52
+  },
+  {
+    "id": "WlSCKxCX7SM",
+    "title": "Rainy Week",
+    "originalTitle": "Rainy Week",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "paper",
+    "sourceOrder": 52,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:05",
+    "channelOrder": 53
+  },
+  {
+    "id": "BF2JU8pydgI",
+    "title": "Probability with Flipping Coins",
+    "originalTitle": "Probability with Flipping Coins",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "paper",
+    "sourceOrder": 53,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:43",
+    "channelOrder": 54
+  },
+  {
+    "id": "lcVHobay9NY",
+    "title": "Chocolate Chip and Oatmeal Cookies",
+    "originalTitle": "Chocolate Chip and Oatmeal Cookies",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "paper",
+    "sourceOrder": 54,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:11",
+    "channelOrder": 55
+  },
+  {
+    "id": "QsnNad_Sq10",
+    "title": "Student Council",
+    "originalTitle": "Student Council",
+    "category": "probability",
+    "topic": "Counting Methods",
+    "format": "paper",
+    "sourceOrder": 55,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:53",
+    "channelOrder": 56
+  },
+  {
+    "id": "cmbLshybQAY",
+    "title": "Shooting Free-throws",
+    "originalTitle": "Shooting Free-throws",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "paper",
+    "sourceOrder": 56,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:10",
+    "channelOrder": 57
+  },
+  {
+    "id": "MI0nrxX0W2s",
+    "title": "Hard-boiled Eggs",
+    "originalTitle": "Hard-boiled Eggs",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "paper",
+    "sourceOrder": 57,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:42",
+    "channelOrder": 58
+  },
+  {
+    "id": "9K40kg9dYBg",
+    "title": "Bull's Eye",
+    "originalTitle": "Bull's Eye",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "paper",
+    "sourceOrder": 58,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:28",
+    "channelOrder": 59
+  },
+  {
+    "id": "3eaoTz883BY",
+    "title": "Coins in a Piggy Bank",
+    "originalTitle": "Coins in a Piggy Bank",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "paper",
+    "sourceOrder": 59,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:37",
+    "channelOrder": 60
+  },
+  {
+    "id": "Vvc5uyLRmhE",
+    "title": "Rolling Dice",
+    "originalTitle": "Rolling Dice",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "paper",
+    "sourceOrder": 60,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:24",
+    "channelOrder": 61
+  },
+  {
+    "id": "8NZcP5fRQxE",
+    "title": "2004 AMC 12A #12",
+    "originalTitle": "2004 AMC 12A #12",
+    "category": "competition",
+    "topic": "2004 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 61,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:43",
+    "channelOrder": 62
+  },
+  {
+    "id": "PuEm6oFnMsw",
+    "title": "2004 AMC 12A #10",
+    "originalTitle": "2004 AMC 12A #10",
+    "category": "competition",
+    "topic": "2004 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 62,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:49",
+    "channelOrder": 63
+  },
+  {
+    "id": "sMZYE6ixeT0",
+    "title": "2004 AMC 12A #11",
+    "originalTitle": "2004 AMC 12A #11",
+    "category": "competition",
+    "topic": "2004 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 63,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:53",
+    "channelOrder": 64
+  },
+  {
+    "id": "xZ07gDJJ28w",
+    "title": "2004 AMC 12A #9",
+    "originalTitle": "2004 AMC 12A #9",
+    "category": "competition",
+    "topic": "2004 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 64,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:18",
+    "channelOrder": 65
+  },
+  {
+    "id": "4x1dM19z7UI",
+    "title": "2004 AMC 12A #9",
+    "originalTitle": "2004 AMC 12A #9",
+    "category": "competition",
+    "topic": "2004 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 65,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:16",
+    "channelOrder": 66
+  },
+  {
+    "id": "OgYsxxJw6ns",
+    "title": "2004 AMC 12A #7",
+    "originalTitle": "2004 AMC 12A #7",
+    "category": "competition",
+    "topic": "2004 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 66,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:38",
+    "channelOrder": 67
+  },
+  {
+    "id": "9JaY2fQ9LRI",
+    "title": "2004 AMC 12A #4",
+    "originalTitle": "2004 AMC 12A #4",
+    "category": "competition",
+    "topic": "2004 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 67,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:16",
+    "channelOrder": 68
+  },
+  {
+    "id": "7SNWTVXE6Qk",
+    "title": "2004 AMC 12A #5",
+    "originalTitle": "2004 AMC 12A #5",
+    "category": "competition",
+    "topic": "2004 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 68,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:53",
+    "channelOrder": 69
+  },
+  {
+    "id": "ShqXoWWtO8U",
+    "title": "2004 AMC 12A #3",
+    "originalTitle": "2004 AMC 12A #3",
+    "category": "competition",
+    "topic": "2004 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 69,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:09",
+    "channelOrder": 70
+  },
+  {
+    "id": "NdzEZlusVPw",
+    "title": "2004 AMC 12A #2",
+    "originalTitle": "2004 AMC 12A #2",
+    "category": "competition",
+    "topic": "2004 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 70,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:47",
+    "channelOrder": 71
+  },
+  {
+    "id": "SV1Bg4y66q0",
+    "title": "2004 AMC 12A #1",
+    "originalTitle": "2004 AMC 12A #1",
+    "category": "competition",
+    "topic": "2004 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 71,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:39",
+    "channelOrder": 72
+  },
+  {
+    "id": "tdSKfasTaVo",
+    "title": "Counting Types of Shapes using Venn Diagram",
+    "originalTitle": "Counting Types of Shapes using Venn Diagram",
+    "category": "probability",
+    "topic": "Counting Methods",
+    "format": "paper",
+    "sourceOrder": 72,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:56",
+    "channelOrder": 73
+  },
+  {
+    "id": "RapAwpbMbUQ",
+    "title": "Counting Squares, Cubes, and Powers of Six",
+    "originalTitle": "Counting Squares, Cubes, and Powers of Six",
+    "category": "probability",
+    "topic": "Counting Methods",
+    "format": "paper",
+    "sourceOrder": 73,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:30",
+    "channelOrder": 74
+  },
+  {
+    "id": "CkZ-dxWV1Yw",
+    "title": "Minimum Counting with Three Variables",
+    "originalTitle": "Minimum Counting with Three Variables",
+    "category": "probability",
+    "topic": "Counting Methods",
+    "format": "paper",
+    "sourceOrder": 74,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:48",
+    "channelOrder": 75
+  },
+  {
+    "id": "yWGJUIVI6VI",
+    "title": "Inclusive Counting Homework Problem",
+    "originalTitle": "Inclusive Counting Homework Problem",
+    "category": "probability",
+    "topic": "Counting Methods",
+    "format": "paper",
+    "sourceOrder": 75,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:02",
+    "channelOrder": 77
+  },
+  {
+    "id": "KYslesA1R0Q",
+    "title": "Inclusive Counting Problem",
+    "originalTitle": "Inclusive Counting Problem",
+    "category": "probability",
+    "topic": "Counting Methods",
+    "format": "paper",
+    "sourceOrder": 76,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:11",
+    "channelOrder": 79
+  },
+  {
+    "id": "y6W_WBs_HdA",
+    "title": "2003 AMC 12A Problem 25",
+    "originalTitle": "2003 AMC 12A Problem Number Twenty Five",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 77,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "4:28",
+    "channelOrder": 81
+  },
+  {
+    "id": "UIroa145xeU",
+    "title": "Arithmetic Counting",
+    "originalTitle": "Arithmetic Counting",
+    "category": "probability",
+    "topic": "Counting Methods",
+    "format": "paper",
+    "sourceOrder": 78,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:27",
+    "channelOrder": 82
+  },
+  {
+    "id": "qmLKtvxFKCY",
+    "title": "Even Exclusive Counting",
+    "originalTitle": "Even Exclusive Counting",
+    "category": "probability",
+    "topic": "Counting Methods",
+    "format": "paper",
+    "sourceOrder": 79,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:45",
+    "channelOrder": 83
+  },
+  {
+    "id": "6d57wEq_wzA",
+    "title": "2003 AMC Problem 19",
+    "originalTitle": "2003 AMC Problem Number Nineteen",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 80,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "4:24",
+    "channelOrder": 85
+  },
+  {
+    "id": "80R6xqubXfQ",
+    "title": "2003 AMC 12A Problem 19",
+    "originalTitle": "2003 AMC 12A Problem Number Nineteen",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 81,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "4:24",
+    "channelOrder": 86
+  },
+  {
+    "id": "r0PY3vflFZU",
+    "title": "2003 AMC 12A Problem 23",
+    "originalTitle": "2003 AMC 12A Problem Number Twenty Three",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 82,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:57",
+    "channelOrder": 87
+  },
+  {
+    "id": "O72zenkm49o",
+    "title": "2003 AMC 12A Problem 22",
+    "originalTitle": "2003 AMC 12A Problem Number Twenty Two",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 83,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:04",
+    "channelOrder": 88
+  },
+  {
+    "id": "bGdo5Cuo2Hs",
+    "title": "2003 AMC 12A Problem 21",
+    "originalTitle": "2003 AMC 12A Problem Number Twenty One",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 84,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:26",
+    "channelOrder": 89
+  },
+  {
+    "id": "5ZYlaD-wdsY",
+    "title": "2003 AMC 12A Problem 24",
+    "originalTitle": "2003 AMC 12A Problem Number Twenty Four",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 85,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:33",
+    "channelOrder": 90
+  },
+  {
+    "id": "JUG5OME9DAQ",
+    "title": "2003 AMC 12A Problem 20",
+    "originalTitle": "2003 AMC 12A Problem Number Twenty",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 86,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:37",
+    "channelOrder": 91
+  },
+  {
+    "id": "-qX7Qdmsffg",
+    "title": "2003 AMC 12A Problem 18",
+    "originalTitle": "2003 AMC 12A Problem Number Eighteen",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 87,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:27",
+    "channelOrder": 92
+  },
+  {
+    "id": "VKZOL49DAng",
+    "title": "2003 AMC 12A Problem 17",
+    "originalTitle": "2003 AMC 12A Problem Number Seventeen",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 88,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:22",
+    "channelOrder": 93
+  },
+  {
+    "id": "OD7hkrsKZkk",
+    "title": "2003 AMC 12A Problem 14",
+    "originalTitle": "2003 AMC 12A Problem Number Fourteen",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 89,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:36",
+    "channelOrder": 94
+  },
+  {
+    "id": "c8b8_YT0HJI",
+    "title": "2003 AMC 12A Problem 15",
+    "originalTitle": "2003 AMC 12A Problem Number Fifteen",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 90,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "4:48",
+    "channelOrder": 95
+  },
+  {
+    "id": "9y6A9--kEI4",
+    "title": "2003 AMC 12A Problem 13",
+    "originalTitle": "2003 AMC 12A Problem Number Thirteen",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 91,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:43",
+    "channelOrder": 96
+  },
+  {
+    "id": "NYuv9QK9YNo",
+    "title": "2003 AMC 12A Problem 12",
+    "originalTitle": "2003 AMC 12A Problem Number Twelve",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 92,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:56",
+    "channelOrder": 97
+  },
+  {
+    "id": "Bh_FAyqr8kI",
+    "title": "2003 AMC 12A Problem 11",
+    "originalTitle": "2003 AMC 12A Problem Number Eleven",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 93,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "4:46",
+    "channelOrder": 98
+  },
+  {
+    "id": "r4LUb9TRm3c",
+    "title": "2003 AMC 12A Problem 10",
+    "originalTitle": "2003 AMC 12A Problem Number Ten",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 94,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "5:03",
+    "channelOrder": 99
+  },
+  {
+    "id": "IVLRWKOWnFs",
+    "title": "2003 AMC 12A Problem 8",
+    "originalTitle": "2003 AMC 12A Problem Number Eight",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 95,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "4:15",
+    "channelOrder": 100
+  },
+  {
+    "id": "4-HUZmbbN24",
+    "title": "2003 AMC 12A Problem 9",
+    "originalTitle": "2003 AMC 12A Problem Number Nine",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 96,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:28",
+    "channelOrder": 101
+  },
+  {
+    "id": "W1b78oiG6ZU",
+    "title": "2003 AMC 12A Problem 7",
+    "originalTitle": "2003 AMC 12A Problem Number Seven",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 97,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:52",
+    "channelOrder": 102
+  },
+  {
+    "id": "2mLF9EA_5rM",
+    "title": "2003 AMC 12A Problem 6",
+    "originalTitle": "2003 AMC 12A Problem Number Six",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 98,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:16",
+    "channelOrder": 103
+  },
+  {
+    "id": "X1wzmoE-ghY",
+    "title": "2003 AMC 12A Problem 5",
+    "originalTitle": "2003 AMC 12A Problem Number Five",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 99,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:02",
+    "channelOrder": 104
+  },
+  {
+    "id": "9Ascd7vSrNM",
+    "title": "2003 AMC 12A Problem 3",
+    "originalTitle": "2003 AMC 12A Problem Number Three",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 100,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:13",
+    "channelOrder": 105
+  },
+  {
+    "id": "yUoD7lLZSoE",
+    "title": "2003 AMC 12A Problem 4",
+    "originalTitle": "2003 AMC 12A Problem Number Four",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 101,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:03",
+    "channelOrder": 106
+  },
+  {
+    "id": "kzybi0Puic8",
+    "title": "2003 AMC 12A Problem 2",
+    "originalTitle": "2003 AMC 12A Problem Number Two",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 102,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:32",
+    "channelOrder": 107
+  },
+  {
+    "id": "PB_03wT4ofQ",
+    "title": "2003 AMC 12A Problem 1",
+    "originalTitle": "2003 AMC 12A Problem Number One",
+    "category": "competition",
+    "topic": "2003 AMC 12A",
+    "format": "paper",
+    "sourceOrder": 103,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:51",
+    "channelOrder": 108
+  },
+  {
+    "id": "OBVZRZOkuPE",
+    "title": "How to do: Integration By Parts (part 5)",
+    "originalTitle": "How to do: Integration By Parts (part 5)",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 104,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:49",
+    "channelOrder": 109
+  },
+  {
+    "id": "dzya8rY7W84",
+    "title": "How to do: Integration By Parts (part 4)",
+    "originalTitle": "How to do: Integration By Parts (part 4)",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 105,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:46",
+    "channelOrder": 110
+  },
+  {
+    "id": "-AsHGJVj_k4",
+    "title": "How to do: Integration By Parts (part 3)",
+    "originalTitle": "How to do: Integration By Parts (part 3)",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 106,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:55",
+    "channelOrder": 111
+  },
+  {
+    "id": "U-Pqmn9fP4U",
+    "title": "When U-substition Failed Us All",
+    "originalTitle": "When U-substition Failed Us All",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 107,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:08",
+    "channelOrder": 112
+  },
+  {
+    "id": "3MgMYqJ4JBg",
+    "title": "How to do: Integration By Parts (part 2)",
+    "originalTitle": "How to do: Integration By Parts (part 2)",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 108,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:00",
+    "channelOrder": 113
+  },
+  {
+    "id": "zeGLWP3aS8A",
+    "title": "Seemingly IMPOSSIBLE Integrals",
+    "originalTitle": "Seemingly IMPOSSIBLE Integrals",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 109,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:04",
+    "channelOrder": 114
+  },
+  {
+    "id": "Xb16DAzAgzk",
+    "title": "How to do: Integration By Parts (part 1)",
+    "originalTitle": "How to do: Integration By Parts (part 1)",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 110,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:02",
+    "channelOrder": 115
+  },
+  {
+    "id": "YQBpi0-7KSw",
+    "title": "Evaluating Integrals with Variables as Exponents",
+    "originalTitle": "Evaluating Integrals with Variables as Exponents",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 111,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:35",
+    "channelOrder": 116
+  },
+  {
+    "id": "rYXKOvR71Dc",
+    "title": "Integral of cot(x)dx",
+    "originalTitle": "Integral of cot(x)dx",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 112,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:44",
+    "channelOrder": 117
+  },
+  {
+    "id": "GIRKO6aDq9g",
+    "title": "MONSTER INTEGRAL!!!",
+    "originalTitle": "MONSTER INTEGRAL!!!",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 113,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:48",
+    "channelOrder": 118
+  },
+  {
+    "id": "vAAO0reR4as",
+    "title": "Deriving Sin(2a) When Given sin(a)",
+    "originalTitle": "Deriving Sin(2a) When Given sin(a)",
+    "category": "trigonometry",
+    "topic": "Trigonometric Identities",
+    "format": "paper",
+    "sourceOrder": 114,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:40",
+    "channelOrder": 119
+  },
+  {
+    "id": "id57P-DIxrM",
+    "title": "Evaluating the Integral of tan(x)dx",
+    "originalTitle": "Evaluating the Integral  of tan(x)dx",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 115,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:59",
+    "channelOrder": 120
+  },
+  {
+    "id": "JrA_zbzHFCM",
+    "title": "Using Trigonometric Substitution",
+    "originalTitle": "Using Trigonometric Substitution",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 116,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:42",
+    "channelOrder": 121
+  },
+  {
+    "id": "herLvuShqEw",
+    "title": "Evaluating a Definite Trigonometric Integral",
+    "originalTitle": "October 8, 2019",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 117,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:09",
+    "channelOrder": 122
+  },
+  {
+    "id": "-tuBDswGNjI",
+    "title": "Integral of tanx dx",
+    "originalTitle": "Integral of tanx dx",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 118,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:41",
+    "channelOrder": 123
+  },
+  {
+    "id": "Iyg5z_qq2MY",
+    "title": "More Fundamental Theorem of Calculus Problems",
+    "originalTitle": "More Fundamental Theorem of Calculus Problems",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 119,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:30",
+    "channelOrder": 124
+  },
+  {
+    "id": "9eyvKKL1AHQ",
+    "title": "The Fundamental Theorem of Calculus Part Two",
+    "originalTitle": "The Fundamental  Theorem  of Calculus  Part Two",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 120,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:43",
+    "channelOrder": 125
+  },
+  {
+    "id": "swCGnc4_log",
+    "title": "Using the Fundamental Theorem of Calculus",
+    "originalTitle": "Using the Fundamental  Theorem of Calculus",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 121,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:47",
+    "channelOrder": 126
+  },
+  {
+    "id": "OI51_mWeuz8",
+    "title": "Finding Altitudes of Right Triangles",
+    "originalTitle": "Finding Altitudes of Right Triangles",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "paper",
+    "sourceOrder": 122,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:56",
+    "channelOrder": 127
+  },
+  {
+    "id": "29a-W37qErQ",
+    "title": "Using Circles",
+    "originalTitle": "Using Circles",
+    "category": "geometry",
+    "topic": "Circles",
+    "format": "paper",
+    "sourceOrder": 123,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:58",
+    "channelOrder": 128
+  },
+  {
+    "id": "o-gKkJvIB7A",
+    "title": "Solving for Lunes",
+    "originalTitle": "Solving for Lunes",
+    "category": "geometry",
+    "topic": "Circles",
+    "format": "paper",
+    "sourceOrder": 124,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:21",
+    "channelOrder": 129
+  },
+  {
+    "id": "0-9030zUU_U",
+    "title": "Sneaky Geometry Problems",
+    "originalTitle": "Sneaky Geometry Problems",
+    "category": "geometry",
+    "topic": "Area & Geometry Problems",
+    "format": "paper",
+    "sourceOrder": 125,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:34",
+    "channelOrder": 130
+  },
+  {
+    "id": "eLw4HLDBn54",
+    "title": "Calculus and Trigonometry",
+    "originalTitle": "Calculus and Trigonometry",
+    "category": "calculus",
+    "topic": "Derivatives & Applications",
+    "format": "paper",
+    "sourceOrder": 126,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:22",
+    "channelOrder": 131
+  },
+  {
+    "id": "qHqNzPlgb-M",
+    "title": "Rectangle",
+    "originalTitle": "Rectangle",
+    "category": "geometry",
+    "topic": "Area & Geometry Problems",
+    "format": "paper",
+    "sourceOrder": 127,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:07",
+    "channelOrder": 132
+  },
+  {
+    "id": "CXiCfVnsaLA",
+    "title": "Using Trigonometric Identities to Solve Tough Integrals",
+    "originalTitle": "Using Trigonometric Identities to Solve Tough Integrals",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 128,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "8:20",
+    "channelOrder": 133
+  },
+  {
+    "id": "ga22sC2i8bc",
+    "title": "Turning Integrals into Easier Forms",
+    "originalTitle": "Turning Integrals into Easier Forms",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 129,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:11",
+    "channelOrder": 134
+  },
+  {
+    "id": "6qFGK8_N9ys",
+    "title": "Better than U-Substitution",
+    "originalTitle": "Better than U-Substitution",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 130,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:25",
+    "channelOrder": 135
+  },
+  {
+    "id": "jvNlugYDBY4",
+    "title": "Undoing the Derivative",
+    "originalTitle": "Undoing the Derivative",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 131,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:52",
+    "channelOrder": 136
+  },
+  {
+    "id": "Gmud9nMscOw",
+    "title": "Thinking Backward in Calculus",
+    "originalTitle": "Thinking Backward in Calculus",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 132,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:17",
+    "channelOrder": 137
+  },
+  {
+    "id": "BAhoC-nZisg",
+    "title": "Finding Antiderivatives",
+    "originalTitle": "Finding Antiderivatives",
+    "category": "calculus",
+    "topic": "Integrals & Antiderivatives",
+    "format": "paper",
+    "sourceOrder": 133,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:51",
+    "channelOrder": 138
+  },
+  {
+    "id": "SxDa_QYPgYA",
+    "title": "30-60-90 Triangles",
+    "originalTitle": "30-60-90 Triangles",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "paper",
+    "sourceOrder": 134,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:17",
+    "channelOrder": 139
+  },
+  {
+    "id": "SfFrOB24nw0",
+    "title": "Evaluating Regions",
+    "originalTitle": "Evaluating Regions",
+    "category": "geometry",
+    "topic": "Area & Geometry Problems",
+    "format": "paper",
+    "sourceOrder": 135,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:56",
+    "channelOrder": 140
+  },
+  {
+    "id": "FWFyThBjvwU",
+    "title": "Area of a Hexagon using Triangles",
+    "originalTitle": "Area of a Hexagon using Triangles",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "paper",
+    "sourceOrder": 136,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:42",
+    "channelOrder": 141
+  },
+  {
+    "id": "YzKJku10dUM",
+    "title": "Radii in Concentric Circles",
+    "originalTitle": "Radii in Concentric Circles",
+    "category": "geometry",
+    "topic": "Circles",
+    "format": "paper",
+    "sourceOrder": 137,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:19",
+    "channelOrder": 142
+  },
+  {
+    "id": "hxAccTnfmQA",
+    "title": "Folding Paper",
+    "originalTitle": "Folding Paper",
+    "category": "geometry",
+    "topic": "Area & Geometry Problems",
+    "format": "paper",
+    "sourceOrder": 138,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:00",
+    "channelOrder": 143
+  },
+  {
+    "id": "hjNWASy-cLo",
+    "title": "Finding Smallest Area using Calculus",
+    "originalTitle": "Finding Smallest Area using Calculus",
+    "category": "calculus",
+    "topic": "Derivatives & Applications",
+    "format": "paper",
+    "sourceOrder": 139,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "7:03",
+    "channelOrder": 144
+  },
+  {
+    "id": "f3YWlMQQTCk",
+    "title": "Doorway Problem",
+    "originalTitle": "Doorway Problem",
+    "category": "geometry",
+    "topic": "Area & Geometry Problems",
+    "format": "paper",
+    "sourceOrder": 140,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "11:10",
+    "channelOrder": 145
+  },
+  {
+    "id": "1SZY_4JvJAA",
+    "title": "Discovering Pythagorean Triples",
+    "originalTitle": "Discovering Pythagorean Triples",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "paper",
+    "sourceOrder": 141,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:56",
+    "channelOrder": 146
+  },
+  {
+    "id": "SUmba88yP6o",
+    "title": "Show x^3 +e^x has exactly one root",
+    "originalTitle": "Show x^3 +e^x has exactly one root",
+    "category": "calculus",
+    "topic": "Derivatives & Applications",
+    "format": "paper",
+    "sourceOrder": 142,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:07",
+    "channelOrder": 148
+  },
+  {
+    "id": "Q5y_FS5qhH0",
+    "title": "Showing 2x + cos(x) has exactly one root",
+    "originalTitle": "Showing 2x + cos(x) has exactly one root",
+    "category": "calculus",
+    "topic": "Derivatives & Applications",
+    "format": "paper",
+    "sourceOrder": 143,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:14",
+    "channelOrder": 149
+  },
+  {
+    "id": "7c2EEkz3MUs",
+    "title": "Proving arcsin(x-1/x+1)=2arctan(√x)-π/2",
+    "originalTitle": "Proving arcsin(x-1/x+1)=2arctan(√x)-π/2",
+    "category": "trigonometry",
+    "topic": "Trigonometric Identities",
+    "format": "paper",
+    "sourceOrder": 144,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "6:13",
+    "channelOrder": 150
+  },
+  {
+    "id": "3nL1oTDqZrY",
+    "title": "Proving opposite angles of a quadrilateral inside a circle are supplementary.",
+    "originalTitle": "Proving opposite angles of a quadrilateral inside a circle are supplementary.",
+    "category": "geometry",
+    "topic": "Circles",
+    "format": "paper",
+    "sourceOrder": 145,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:31",
+    "channelOrder": 151
+  },
+  {
+    "id": "VJuYF6qDYcY",
+    "title": "Converse of a Circle Theorem",
+    "originalTitle": "Converse of a Circle Theorem",
+    "category": "geometry",
+    "topic": "Circles",
+    "format": "paper",
+    "sourceOrder": 146,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:40",
+    "channelOrder": 152
+  },
+  {
+    "id": "0T_v1Ylbk9Q",
+    "title": "Proving an circle theorem",
+    "originalTitle": "Proving an circle theorem",
+    "category": "geometry",
+    "topic": "Circles",
+    "format": "paper",
+    "sourceOrder": 147,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:22",
+    "channelOrder": 153
+  },
+  {
+    "id": "T4MSTpOyz74",
+    "title": "Number of Factors",
+    "originalTitle": "Number of Factors",
+    "category": "number-theory",
+    "topic": "Primes & Divisibility",
+    "format": "paper",
+    "sourceOrder": 148,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:58",
+    "channelOrder": 154
+  },
+  {
+    "id": "JNPThc7awrc",
+    "title": "Counting",
+    "originalTitle": "Counting",
+    "category": "probability",
+    "topic": "Counting Methods",
+    "format": "paper",
+    "sourceOrder": 149,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:39",
+    "channelOrder": 155
+  },
+  {
+    "id": "-X8RPpSqizo",
+    "title": "Using the Formula for the Sum ofan Infinite Geometric Series",
+    "originalTitle": "Using the Formula for the Sum ofan Infinite Geometric Series",
+    "category": "algebra",
+    "topic": "Sequences & Series",
+    "format": "paper",
+    "sourceOrder": 150,
+    "tags": [
+      "calculus",
+      "geometric series"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:32",
+    "channelOrder": 156
+  },
+  {
+    "id": "xetgGD8QVUE",
+    "title": "Using Geometric Formulas",
+    "originalTitle": "Using Geometric Formulas",
+    "category": "geometry",
+    "topic": "Area & Geometry Problems",
+    "format": "paper",
+    "sourceOrder": 151,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:53",
+    "channelOrder": 157
+  },
+  {
+    "id": "LvFmYYk7ECE",
+    "title": "Finding Sums of an Arithmetic Sequence",
+    "originalTitle": "Finding Sums for f an Arithmetic Sequence",
+    "category": "algebra",
+    "topic": "Sequences & Series",
+    "format": "paper",
+    "sourceOrder": 152,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:51",
+    "channelOrder": 158
+  },
+  {
+    "id": "GNfqqdMLsGk",
+    "title": "D=rt and System of Equations",
+    "originalTitle": "D=rt and System of Equations",
+    "category": "algebra",
+    "topic": "Ratios & Word Problems",
+    "format": "paper",
+    "sourceOrder": 153,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:16",
+    "channelOrder": 159
+  },
+  {
+    "id": "8adZlmk81sQ",
+    "title": "Unit Conversion",
+    "originalTitle": "Unit Conversion",
+    "category": "algebra",
+    "topic": "Ratios & Word Problems",
+    "format": "paper",
+    "sourceOrder": 154,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:58",
+    "channelOrder": 160
+  },
+  {
+    "id": "qu8eWRKXfh4",
+    "title": "Simplifying Infinite Expressions",
+    "originalTitle": "Simplfying Infinite Expressions",
+    "category": "algebra",
+    "topic": "Equations & Expressions",
+    "format": "paper",
+    "sourceOrder": 155,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:47",
+    "channelOrder": 161
+  },
+  {
+    "id": "OJ76uOAmehg",
+    "title": "Simplifying Cube Radicals",
+    "originalTitle": "Simplfying Cube Radicals",
+    "category": "algebra",
+    "topic": "Equations & Expressions",
+    "format": "paper",
+    "sourceOrder": 156,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:27",
+    "channelOrder": 162
+  },
+  {
+    "id": "Qm6RuxTBpls",
+    "title": "(a + √b)^3",
+    "originalTitle": "(a + √b)^3",
+    "category": "algebra",
+    "topic": "Equations & Expressions",
+    "format": "paper",
+    "sourceOrder": 157,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:03",
+    "channelOrder": 163
+  },
+  {
+    "id": "LU9KQsSLAtQ",
+    "title": "Prime Factorize 2^20 -1",
+    "originalTitle": "Prime Factorize 2^20 -1",
+    "category": "number-theory",
+    "topic": "Primes & Divisibility",
+    "format": "paper",
+    "sourceOrder": 158,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:04",
+    "channelOrder": 164
+  },
+  {
+    "id": "VKQ1Sgb-Fx4",
+    "title": "Finding Horizontal Tangents",
+    "originalTitle": "Finding Horizontal Tangents",
+    "category": "calculus",
+    "topic": "Derivatives & Applications",
+    "format": "paper",
+    "sourceOrder": 159,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:01",
+    "channelOrder": 165
+  },
+  {
+    "id": "CV8p2MZwx3M",
+    "title": "Finding the Limit by Factoring",
+    "originalTitle": "Finding the Limit by Factoring",
+    "category": "calculus",
+    "topic": "Limits",
+    "format": "paper",
+    "sourceOrder": 160,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:28",
+    "channelOrder": 166
+  },
+  {
+    "id": "RaG76znMvlI",
+    "title": "Definition of Limits",
+    "originalTitle": "Definition of Limits",
+    "category": "calculus",
+    "topic": "Limits",
+    "format": "paper",
+    "sourceOrder": 161,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:25",
+    "channelOrder": 167
+  },
+  {
+    "id": "9AIoRPl7MJU",
+    "title": "Finding f′(x)",
+    "originalTitle": "Fining f'(x)",
+    "category": "calculus",
+    "topic": "Derivatives & Applications",
+    "format": "paper",
+    "sourceOrder": 162,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:13",
+    "channelOrder": 168
+  },
+  {
+    "id": "zoDkqzGRcfA",
+    "title": "f(x)=f(a)+f'(a)(x-a)",
+    "originalTitle": "f(x)=f(a)+f'(a)(x-a)",
+    "category": "calculus",
+    "topic": "Derivatives & Applications",
+    "format": "paper",
+    "sourceOrder": 163,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:00",
+    "channelOrder": 169
+  },
+  {
+    "id": "xnwJws4y9kk",
+    "title": "Graphing y=x^1/3",
+    "originalTitle": "Graphing y=x^1/3",
+    "category": "algebra",
+    "topic": "Equations & Expressions",
+    "format": "paper",
+    "sourceOrder": 164,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:45",
+    "channelOrder": 170
+  },
+  {
+    "id": "OW_xtrIKT8s",
+    "title": "What is the √9.1?",
+    "originalTitle": "What is the √9.1?",
+    "category": "calculus",
+    "topic": "Derivatives & Applications",
+    "format": "paper",
+    "sourceOrder": 165,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:31",
+    "channelOrder": 171
+  },
+  {
+    "id": "Z3umq8k7nak",
+    "title": "Sin(π-x)",
+    "originalTitle": "Sin(π-x)",
+    "category": "trigonometry",
+    "topic": "Trigonometric Identities",
+    "format": "paper",
+    "sourceOrder": 166,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:39",
+    "channelOrder": 172
+  },
+  {
+    "id": "o4w8MJ_7tmU",
+    "title": "Sin(-x)",
+    "originalTitle": "Sin(-x)",
+    "category": "trigonometry",
+    "topic": "Trigonometric Identities",
+    "format": "paper",
+    "sourceOrder": 167,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:19",
+    "channelOrder": 173
+  },
+  {
+    "id": "v8KE6pqOvdY",
+    "title": "Graphing f'(x) from f(x)",
+    "originalTitle": "Graphing f'(x) from f(x)",
+    "category": "calculus",
+    "topic": "Derivatives & Applications",
+    "format": "paper",
+    "sourceOrder": 168,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:01",
+    "channelOrder": 174
+  },
+  {
+    "id": "k7zLKlZE6WQ",
+    "title": "Differentiating a Trigonometric Function",
+    "originalTitle": "d/dx(since)",
+    "category": "calculus",
+    "topic": "Derivatives & Applications",
+    "format": "paper",
+    "sourceOrder": 169,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:30",
+    "channelOrder": 175
+  },
+  {
+    "id": "BZ0lK2V2Bs8",
+    "title": "Trig Limit: Limit of (1-cos(x))/x",
+    "originalTitle": "Trig Limit: Limit of (1-cos(x))/x",
+    "category": "calculus",
+    "topic": "Limits",
+    "format": "paper",
+    "sourceOrder": 170,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "6:06",
+    "channelOrder": 176
+  },
+  {
+    "id": "vXNQZmqO20U",
+    "title": "Trig Limit: Limit of tan(x)/x",
+    "originalTitle": "Trig Limit: Limit of tan(x)/x",
+    "category": "calculus",
+    "topic": "Limits",
+    "format": "paper",
+    "sourceOrder": 171,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:04",
+    "channelOrder": 177
+  },
+  {
+    "id": "XEhhtIVgPQ0",
+    "title": "Trig Limit: Limit of sin(x)/x",
+    "originalTitle": "Trig Limit: Limit of sin(x)/x",
+    "category": "calculus",
+    "topic": "Limits",
+    "format": "paper",
+    "sourceOrder": 172,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:03",
+    "channelOrder": 178
+  },
+  {
+    "id": "P4gTvAc-4Zo",
+    "title": "Finding Limits by Expanding Fractions",
+    "originalTitle": "Finding Limits by Expanding Fractions",
+    "category": "calculus",
+    "topic": "Limits",
+    "format": "paper",
+    "sourceOrder": 173,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:54",
+    "channelOrder": 179
+  },
+  {
+    "id": "bNQlIsko3-s",
+    "title": "Finding Limits from Left and Right Hand Side",
+    "originalTitle": "Finding Limits from Left and Right Hand Side",
+    "category": "calculus",
+    "topic": "Limits",
+    "format": "paper",
+    "sourceOrder": 174,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:59",
+    "channelOrder": 180
+  },
+  {
+    "id": "dt8_ikxeT1U",
+    "title": "Sum of reciprocals",
+    "originalTitle": "Sum of reciprocals",
+    "category": "algebra",
+    "topic": "Sequences & Series",
+    "format": "paper",
+    "sourceOrder": 175,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:04",
+    "channelOrder": 181
+  },
+  {
+    "id": "uC4npJrdWF0",
+    "title": "Investment Percent Change",
+    "originalTitle": "Investment Percent Change",
+    "category": "algebra",
+    "topic": "Ratios & Word Problems",
+    "format": "paper",
+    "sourceOrder": 176,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:39",
+    "channelOrder": 182
+  },
+  {
+    "id": "1dh22N2dI_A",
+    "title": "Exponential Decrease",
+    "originalTitle": "Exponential Decrease",
+    "category": "algebra",
+    "topic": "Ratios & Word Problems",
+    "format": "paper",
+    "sourceOrder": 177,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:26",
+    "channelOrder": 183
+  },
+  {
+    "id": "m6_zuHIguMM",
+    "title": "Watermelon Problem",
+    "originalTitle": "Watermelon Problem",
+    "category": "algebra",
+    "topic": "Ratios & Word Problems",
+    "format": "paper",
+    "sourceOrder": 178,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:57",
+    "channelOrder": 184
+  },
+  {
+    "id": "geLho_9LGxw",
+    "title": "Deriving Average Rate with a Constant Distance",
+    "originalTitle": "Deriving Average Rate with a Constant Distance",
+    "category": "calculus",
+    "topic": "Derivatives & Applications",
+    "format": "paper",
+    "sourceOrder": 179,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:47",
+    "channelOrder": 185
+  },
+  {
+    "id": "2cir0tEoM68",
+    "title": "Circles and Radii",
+    "originalTitle": "Circles and Radii",
+    "category": "geometry",
+    "topic": "Circles",
+    "format": "paper",
+    "sourceOrder": 180,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:10",
+    "channelOrder": 186
+  },
+  {
+    "id": "eAYA2pWvaZY",
+    "title": "Birthday Problem",
+    "originalTitle": "Birthday Problem",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "paper",
+    "sourceOrder": 181,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:05",
+    "channelOrder": 187
+  },
+  {
+    "id": "2uh7oD4eF4c",
+    "title": "Logs and Radicals",
+    "originalTitle": "Logs and Radicals",
+    "category": "algebra",
+    "topic": "Equations & Expressions",
+    "format": "paper",
+    "sourceOrder": 182,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:53",
+    "channelOrder": 188
+  },
+  {
+    "id": "TQeJ4igsOv4",
+    "title": "Non-linear Diophantine Equations: Inequalities",
+    "originalTitle": "Non-linear Diophantine Equations: Inequalities",
+    "category": "number-theory",
+    "topic": "Diophantine Equations",
+    "format": "paper",
+    "sourceOrder": 183,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:13",
+    "channelOrder": 189
+  },
+  {
+    "id": "3Hi0Y7V71XY",
+    "title": "Non-linear Diophantine Equations: Factoring Method",
+    "originalTitle": "Non-linear Diophantine Equations: Factoring Method",
+    "category": "number-theory",
+    "topic": "Diophantine Equations",
+    "format": "paper",
+    "sourceOrder": 184,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "8:04",
+    "channelOrder": 190
+  },
+  {
+    "id": "9L-LGIu6fe8",
+    "title": "P-ADIC Valuation",
+    "originalTitle": "P-ADIC Valuation",
+    "category": "number-theory",
+    "topic": "Primes & Divisibility",
+    "format": "paper",
+    "sourceOrder": 185,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "15:39",
+    "channelOrder": 191
+  },
+  {
+    "id": "OXxVRFfx6Pg",
+    "title": "AIME 1987 #1",
+    "originalTitle": "AIME 1987 #1",
+    "category": "competition",
+    "topic": "AIME",
+    "format": "paper",
+    "sourceOrder": 186,
+    "tags": [
+      "contest"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:10",
+    "channelOrder": 192
+  },
+  {
+    "id": "qNlzFN8dck0",
+    "title": "Proof by Induction",
+    "originalTitle": "Untitled video",
+    "category": "number-theory",
+    "topic": "Induction & Reasoning",
+    "format": "paper",
+    "sourceOrder": 187,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:44",
+    "channelOrder": 193
+  },
+  {
+    "id": "UgPgfwuyQXs",
+    "title": "Roads and Induction",
+    "originalTitle": "Roads and Induction",
+    "category": "number-theory",
+    "topic": "Induction & Reasoning",
+    "format": "paper",
+    "sourceOrder": 188,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:03",
+    "channelOrder": 194
+  },
+  {
+    "id": "WekIJ_nnChw",
+    "title": "Chinese Remainder Theorem",
+    "originalTitle": "Chinese Remainder Theorem",
+    "category": "number-theory",
+    "topic": "Primes & Divisibility",
+    "format": "paper",
+    "sourceOrder": 189,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "7:32",
+    "channelOrder": 195
+  },
+  {
+    "id": "dNIWo3Db08c",
+    "title": "Solving an Equation for x",
+    "originalTitle": "Untitled video",
+    "category": "algebra",
+    "topic": "Equations & Expressions",
+    "format": "paper",
+    "sourceOrder": 190,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:31",
+    "channelOrder": 196
+  },
+  {
+    "id": "LjJYsdIU9n8",
+    "title": "A Medical Problem",
+    "originalTitle": "A Medical Problem",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "paper",
+    "sourceOrder": 191,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:28",
+    "channelOrder": 197
+  },
+  {
+    "id": "PQHRqm-OZj4",
+    "title": "Working with an Algebraic Expression",
+    "originalTitle": "Untitled video",
+    "category": "algebra",
+    "topic": "Equations & Expressions",
+    "format": "paper",
+    "sourceOrder": 192,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:26",
+    "channelOrder": 198
+  },
+  {
+    "id": "YxoVZZutDNE",
+    "title": "Mobius Function",
+    "originalTitle": "Mobius Function",
+    "category": "number-theory",
+    "topic": "Primes & Divisibility",
+    "format": "paper",
+    "sourceOrder": 193,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:43",
+    "channelOrder": 199
+  },
+  {
+    "id": "X9b3cwUFp38",
+    "title": "2015 10A #8 and 2015 12A #6",
+    "originalTitle": "2015 10A #8 and 2015 12A #6",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 194,
+    "tags": [
+      "contest"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:41",
+    "channelOrder": 200
+  },
+  {
+    "id": "nWrh5X6U_5w",
+    "title": "Permutations of Three of Five Letters",
+    "originalTitle": "Permutations of Three of Five Letters",
+    "category": "probability",
+    "topic": "Counting Methods",
+    "format": "paper",
+    "sourceOrder": 195,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:54",
+    "channelOrder": 201
+  },
+  {
+    "id": "grLs9SUV7mI",
+    "title": "2017 AMC 12 A #14",
+    "originalTitle": "2017 AMC 12 A #14",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 196,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:15",
+    "channelOrder": 202
+  },
+  {
+    "id": "CyWba8lH3Vo",
+    "title": "Find All Solutions: 23x + 29y = 1",
+    "originalTitle": "Find All Solutions: 23x + 29y = 1",
+    "category": "number-theory",
+    "topic": "Diophantine Equations",
+    "format": "paper",
+    "sourceOrder": 197,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:35",
+    "channelOrder": 203
+  },
+  {
+    "id": "uVlI_-JQDGc",
+    "title": "2017 AMC 12A #5",
+    "originalTitle": "2017 AMC 12A #5",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 198,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:34",
+    "channelOrder": 204
+  },
+  {
+    "id": "Np4F1B4KcUs",
+    "title": "2009 Purple Comet",
+    "originalTitle": "2009 Purple Comet",
+    "category": "competition",
+    "topic": "Other Contests",
+    "format": "paper",
+    "sourceOrder": 199,
+    "tags": [
+      "contest"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:49",
+    "channelOrder": 205
+  },
+  {
+    "id": "5ChLbsAjBdk",
+    "title": "Adding Columns",
+    "originalTitle": "Adding Columns",
+    "category": "number-theory",
+    "topic": "Digits & Place Value",
+    "format": "paper",
+    "sourceOrder": 200,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:35",
+    "channelOrder": 206
+  },
+  {
+    "id": "TbVJvzvgDZE",
+    "title": "Moscow 1940",
+    "originalTitle": "Moscow 1940",
+    "category": "competition",
+    "topic": "Other Contests",
+    "format": "paper",
+    "sourceOrder": 201,
+    "tags": [
+      "contest"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "5:35",
+    "channelOrder": 207
+  },
+  {
+    "id": "Gfnu4Lfdv98",
+    "title": "2015 AMC 10B #8",
+    "originalTitle": "2015 AMC 10B #8",
+    "category": "competition",
+    "topic": "2015 AMC",
+    "format": "paper",
+    "sourceOrder": 202,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:30",
+    "channelOrder": 208
+  },
+  {
+    "id": "al5N99OuZPY",
+    "title": "2015 AMC 10B #7",
+    "originalTitle": "2015 AMC 10B #7",
+    "category": "competition",
+    "topic": "2015 AMC",
+    "format": "paper",
+    "sourceOrder": 203,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:32",
+    "channelOrder": 209
+  },
+  {
+    "id": "8d_VPJqPoAA",
+    "title": "2015 AMC 10B #6",
+    "originalTitle": "2015 AMC 10B #6",
+    "category": "competition",
+    "topic": "2015 AMC",
+    "format": "paper",
+    "sourceOrder": 204,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:55",
+    "channelOrder": 210
+  },
+  {
+    "id": "xJpglG94COU",
+    "title": "2015 AMC 10B #5",
+    "originalTitle": "2015 AMC 10B #5",
+    "category": "competition",
+    "topic": "2015 AMC",
+    "format": "paper",
+    "sourceOrder": 205,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:01",
+    "channelOrder": 211
+  },
+  {
+    "id": "fQzpqn0J8kE",
+    "title": "2015 AMC 10B #4",
+    "originalTitle": "2015 AMC 10B #4",
+    "category": "competition",
+    "topic": "2015 AMC",
+    "format": "paper",
+    "sourceOrder": 206,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:17",
+    "channelOrder": 212
+  },
+  {
+    "id": "4smIs_nMCd4",
+    "title": "2015 AMC 10B #3",
+    "originalTitle": "2015 AMC 10B #3",
+    "category": "competition",
+    "topic": "2015 AMC",
+    "format": "paper",
+    "sourceOrder": 207,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:57",
+    "channelOrder": 213
+  },
+  {
+    "id": "EZH_dBoS5Ks",
+    "title": "2015 AMC 10B #2",
+    "originalTitle": "2015 AMC 10B #2",
+    "category": "competition",
+    "topic": "2015 AMC",
+    "format": "paper",
+    "sourceOrder": 208,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:32",
+    "channelOrder": 214
+  },
+  {
+    "id": "xOYA-nnzJUw",
+    "title": "2014 AMC 10A #9",
+    "originalTitle": "2014 AMC 10A #9",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 209,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:27",
+    "channelOrder": 216
+  },
+  {
+    "id": "UFgltEjL3YQ",
+    "title": "2000 AMC 12 #5 and 10 #9",
+    "originalTitle": "2000 AMC 12 #5 and 10 #9",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 210,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:26",
+    "channelOrder": 217
+  },
+  {
+    "id": "aAgaeO6wNOI",
+    "title": "2000 AMC 12 #3 and 10 #3",
+    "originalTitle": "2000 AMC 12 #3 and 10 #3",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 211,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:26",
+    "channelOrder": 218
+  },
+  {
+    "id": "ZktJ8VzGJTY",
+    "title": "2005 AMC 10B #6 and 12B #4",
+    "originalTitle": "2005 AMC 10B #6 and 12B #4",
+    "category": "competition",
+    "topic": "2005 AMC",
+    "format": "paper",
+    "sourceOrder": 212,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:24",
+    "channelOrder": 220
+  },
+  {
+    "id": "P3J1DDyG-lI",
+    "title": "2005 AMC 10B #5 and 12B #3",
+    "originalTitle": "2005 AMC 10B #5 and 12B #3",
+    "category": "competition",
+    "topic": "2005 AMC",
+    "format": "paper",
+    "sourceOrder": 213,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:17",
+    "channelOrder": 221
+  },
+  {
+    "id": "cTI_x-MeVR8",
+    "title": "2005 AMC 10B #4",
+    "originalTitle": "2005 AMC 10B #4",
+    "category": "competition",
+    "topic": "2005 AMC",
+    "format": "paper",
+    "sourceOrder": 214,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:22",
+    "channelOrder": 222
+  },
+  {
+    "id": "KzuncuYb298",
+    "title": "2005 AMC 10B #3",
+    "originalTitle": "2005 AMC 10B #3",
+    "category": "competition",
+    "topic": "2005 AMC",
+    "format": "paper",
+    "sourceOrder": 215,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:37",
+    "channelOrder": 223
+  },
+  {
+    "id": "IlZPga_ov7g",
+    "title": "2005 AMC 10B and 12B #2",
+    "originalTitle": "2005 AMC 10B and 12B #2",
+    "category": "competition",
+    "topic": "2005 AMC",
+    "format": "paper",
+    "sourceOrder": 216,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:21",
+    "channelOrder": 224
+  },
+  {
+    "id": "YfXG0qwDds8",
+    "title": "2005 AMC 10B #1 and 2005 AMC 12B #1",
+    "originalTitle": "2005 AMC 10B #1 and 2005 AMC 12B #1",
+    "category": "competition",
+    "topic": "2005 AMC",
+    "format": "paper",
+    "sourceOrder": 217,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:40",
+    "channelOrder": 225
+  },
+  {
+    "id": "Ud6PabVw7SQ",
+    "title": "2006 AMC 10B #10",
+    "originalTitle": "2006 AMC 10B #10",
+    "category": "competition",
+    "topic": "2006 AMC",
+    "format": "paper",
+    "sourceOrder": 218,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:33",
+    "channelOrder": 226
+  },
+  {
+    "id": "QcXnTO44zZk",
+    "title": "2006 AMC 10B #9",
+    "originalTitle": "2006 AMC 10B #9",
+    "category": "competition",
+    "topic": "2006 AMC",
+    "format": "paper",
+    "sourceOrder": 219,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:10",
+    "channelOrder": 227
+  },
+  {
+    "id": "xwC2XbptfIk",
+    "title": "2006 AMC 10B #8",
+    "originalTitle": "2006 AMC 10B #8",
+    "category": "competition",
+    "topic": "2006 AMC",
+    "format": "paper",
+    "sourceOrder": 220,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:39",
+    "channelOrder": 228
+  },
+  {
+    "id": "Oz5SlyQ-T8k",
+    "title": "2006 AMC 10B #7",
+    "originalTitle": "2006 AMC 10B #7",
+    "category": "competition",
+    "topic": "2006 AMC",
+    "format": "paper",
+    "sourceOrder": 221,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:22",
+    "channelOrder": 229
+  },
+  {
+    "id": "kqrizzkUeaU",
+    "title": "2006 AMC 10B #6",
+    "originalTitle": "2006 AMC 10B #6",
+    "category": "competition",
+    "topic": "2006 AMC",
+    "format": "paper",
+    "sourceOrder": 222,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:36",
+    "channelOrder": 230
+  },
+  {
+    "id": "iFMemLau6wc",
+    "title": "2006 AMC 10B #5",
+    "originalTitle": "2006 AMC 10B #5",
+    "category": "competition",
+    "topic": "2006 AMC",
+    "format": "paper",
+    "sourceOrder": 223,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:19",
+    "channelOrder": 231
+  },
+  {
+    "id": "09WRbE9326k",
+    "title": "tan(π/3)",
+    "originalTitle": "tan(π/3)",
+    "category": "trigonometry",
+    "topic": "Angles & Trig Functions",
+    "format": "paper",
+    "sourceOrder": 224,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:06",
+    "channelOrder": 232
+  },
+  {
+    "id": "K2-0wiS4jK4",
+    "title": "2006 AMC 10B #4",
+    "originalTitle": "2006 AMC 10B #4",
+    "category": "competition",
+    "topic": "2006 AMC",
+    "format": "paper",
+    "sourceOrder": 225,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:42",
+    "channelOrder": 233
+  },
+  {
+    "id": "H4V_ghLEksw",
+    "title": "2006 AMC 10B #3",
+    "originalTitle": "2006 AMC 10B #3",
+    "category": "competition",
+    "topic": "2006 AMC",
+    "format": "paper",
+    "sourceOrder": 226,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:18",
+    "channelOrder": 234
+  },
+  {
+    "id": "0FVeaRPlqfs",
+    "title": "2006 AMC 10B #2",
+    "originalTitle": "2006 AMC 10B #2",
+    "category": "competition",
+    "topic": "2006 AMC",
+    "format": "paper",
+    "sourceOrder": 227,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:26",
+    "channelOrder": 235
+  },
+  {
+    "id": "VsCcOAhVyME",
+    "title": "What is cos 15°?",
+    "originalTitle": "What is cos 15°?",
+    "category": "trigonometry",
+    "topic": "Angles & Trig Functions",
+    "format": "paper",
+    "sourceOrder": 228,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:34",
+    "channelOrder": 236
+  },
+  {
+    "id": "wTa8YKfZkYk",
+    "title": "Finding SEC and CSC values",
+    "originalTitle": "Finding SEC and CSC values",
+    "category": "trigonometry",
+    "topic": "Angles & Trig Functions",
+    "format": "paper",
+    "sourceOrder": 229,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:27",
+    "channelOrder": 237
+  },
+  {
+    "id": "1AwJaQzcd4o",
+    "title": "What is sin15°",
+    "originalTitle": "What is sin15°",
+    "category": "trigonometry",
+    "topic": "Angles & Trig Functions",
+    "format": "paper",
+    "sourceOrder": 230,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:21",
+    "channelOrder": 238
+  },
+  {
+    "id": "zY0GD3lGg7c",
+    "title": "arcsin and arccosine",
+    "originalTitle": "arcsin and arccosine",
+    "category": "trigonometry",
+    "topic": "Angles & Trig Functions",
+    "format": "paper",
+    "sourceOrder": 231,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:54",
+    "channelOrder": 239
+  },
+  {
+    "id": "4sla8nNC-FY",
+    "title": "Moving Digits",
+    "originalTitle": "Moving Digits",
+    "category": "number-theory",
+    "topic": "Digits & Place Value",
+    "format": "paper",
+    "sourceOrder": 232,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:22",
+    "channelOrder": 240
+  },
+  {
+    "id": "Ol76ejYUI1E",
+    "title": "Adding Digits",
+    "originalTitle": "Adding Digits",
+    "category": "number-theory",
+    "topic": "Digits & Place Value",
+    "format": "paper",
+    "sourceOrder": 233,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:46",
+    "channelOrder": 241
+  },
+  {
+    "id": "n5CzGGa5oKA",
+    "title": "Reversing Digits",
+    "originalTitle": "Reversing Digits",
+    "category": "number-theory",
+    "topic": "Digits & Place Value",
+    "format": "paper",
+    "sourceOrder": 234,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "7:33",
+    "channelOrder": 242
+  },
+  {
+    "id": "inS21X8J9OA",
+    "title": "2007 AMC 10A #10",
+    "originalTitle": "2007 AMC 10A #10",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 235,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:59",
+    "channelOrder": 243
+  },
+  {
+    "id": "-qzxKsikEZI",
+    "title": "2007 AMC 10A #7",
+    "originalTitle": "2007 AMC 10A #7",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 236,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:48",
+    "channelOrder": 244
+  },
+  {
+    "id": "X2SMb7n7FqY",
+    "title": "2011 AMC 10A #9",
+    "originalTitle": "2011 AMC 10A #9",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 237,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:30",
+    "channelOrder": 245
+  },
+  {
+    "id": "k_r_NsiL55w",
+    "title": "Rolling Dice",
+    "originalTitle": "Rolling Dice",
+    "category": "probability",
+    "topic": "Probability Problems",
+    "format": "whiteboard",
+    "sourceOrder": 238,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:55",
+    "channelOrder": 246
+  },
+  {
+    "id": "maK-V--mlL0",
+    "title": "Stacking Blocks",
+    "originalTitle": "Stacking Blocks",
+    "category": "geometry",
+    "topic": "Area & Geometry Problems",
+    "format": "whiteboard",
+    "sourceOrder": 239,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:00",
+    "channelOrder": 247
+  },
+  {
+    "id": "GtAXiJg2bQ8",
+    "title": "2009 AMC 10A",
+    "originalTitle": "2009 AMC 10A",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 240,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:33",
+    "channelOrder": 248
+  },
+  {
+    "id": "r0cpSt09Zsc",
+    "title": "Digit Problems",
+    "originalTitle": "Digit Problems",
+    "category": "number-theory",
+    "topic": "Digits & Place Value",
+    "format": "whiteboard",
+    "sourceOrder": 241,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:19",
+    "channelOrder": 249
+  },
+  {
+    "id": "K3WPNd5tT2g",
+    "title": "Induction: n(n+1)(n+2)",
+    "originalTitle": "Induction: n(n+1)(n+2)",
+    "category": "number-theory",
+    "topic": "Induction & Reasoning",
+    "format": "whiteboard",
+    "sourceOrder": 242,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:20",
+    "channelOrder": 250
+  },
+  {
+    "id": "hnN0hblfIiY",
+    "title": "Distance on a 3D plane",
+    "originalTitle": "Distance on a 3D plane",
+    "category": "geometry",
+    "topic": "Coordinates & Conics",
+    "format": "whiteboard",
+    "sourceOrder": 243,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:25",
+    "channelOrder": 251
+  },
+  {
+    "id": "5i0sEf6fYWk",
+    "title": "tan(a)=2",
+    "originalTitle": "tan(a)=2",
+    "category": "trigonometry",
+    "topic": "Angles & Trig Functions",
+    "format": "whiteboard",
+    "sourceOrder": 244,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:57",
+    "channelOrder": 252
+  },
+  {
+    "id": "7STd7ZNyUh4",
+    "title": "Using the Binomial Theorem",
+    "originalTitle": "Using the Binomial Theorem",
+    "category": "algebra",
+    "topic": "Equations & Expressions",
+    "format": "whiteboard",
+    "sourceOrder": 245,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:44",
+    "channelOrder": 253
+  },
+  {
+    "id": "N36rWxDH-EM",
+    "title": "AMC 12A #5",
+    "originalTitle": "AMC 12A #5",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 246,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:24",
+    "channelOrder": 254
+  },
+  {
+    "id": "rFcF-Brh7kg",
+    "title": "2019 AMC 10B #7",
+    "originalTitle": "2019 AMC 10B #7",
+    "category": "competition",
+    "topic": "2019 AMC",
+    "format": "whiteboard",
+    "sourceOrder": 247,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:24",
+    "channelOrder": 255
+  },
+  {
+    "id": "6TIU3734i7Q",
+    "title": "2013 AMC 10A #8",
+    "originalTitle": "2013 AMC 10A #8",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 248,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:32",
+    "channelOrder": 256
+  },
+  {
+    "id": "lmRxJcOEvKw",
+    "title": "2014 AMC 10A #7",
+    "originalTitle": "2014 AMC 10A #7",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 249,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "4:47",
+    "channelOrder": 257
+  },
+  {
+    "id": "K6zc2-b8ksA",
+    "title": "2019 AMC 10A #13",
+    "originalTitle": "2019 AMC 10A #13",
+    "category": "competition",
+    "topic": "2019 AMC",
+    "format": "whiteboard",
+    "sourceOrder": 250,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "9:35",
+    "channelOrder": 258
+  },
+  {
+    "id": "MJ5FcEIY7A0",
+    "title": "2019 AMC 10B #13",
+    "originalTitle": "2019 AMC 10B #13",
+    "category": "competition",
+    "topic": "2019 AMC",
+    "format": "whiteboard",
+    "sourceOrder": 251,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "5:17",
+    "channelOrder": 259
+  },
+  {
+    "id": "YdK4ZaOeP3k",
+    "title": "2016 AMC 10A #7",
+    "originalTitle": "2016 AMC 10A #7",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 252,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:21",
+    "channelOrder": 260
+  },
+  {
+    "id": "kUM_o2NkBf4",
+    "title": "2016 AMC 10B #9",
+    "originalTitle": "2016 AMC 10B #9",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 253,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:03",
+    "channelOrder": 261
+  },
+  {
+    "id": "CKfV27FTxKg",
+    "title": "2010 AMC 10B #16",
+    "originalTitle": "2010 AMC 10B #16",
+    "category": "competition",
+    "topic": "2010 AMC",
+    "format": "whiteboard",
+    "sourceOrder": 254,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "8:35",
+    "channelOrder": 262
+  },
+  {
+    "id": "zchdhtXFtro",
+    "title": "2006 AMC 10A #8",
+    "originalTitle": "2006 AMC 10A #8",
+    "category": "competition",
+    "topic": "2006 AMC",
+    "format": "whiteboard",
+    "sourceOrder": 255,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:59",
+    "channelOrder": 263
+  },
+  {
+    "id": "MU_7aP9UQ30",
+    "title": "2006 AMC 10A #11",
+    "originalTitle": "2006 AMC 10A #11",
+    "category": "competition",
+    "topic": "2006 AMC",
+    "format": "whiteboard",
+    "sourceOrder": 256,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:25",
+    "channelOrder": 264
+  },
+  {
+    "id": "ETH8VbQ0nyA",
+    "title": "2018 AMC 10A #9",
+    "originalTitle": "2018 AMC 10A #9",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 257,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:14",
+    "channelOrder": 265
+  },
+  {
+    "id": "sO3zt_qvOJw",
+    "title": "2016 AMC 10A #5",
+    "originalTitle": "2016 AMC 10A #5",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 258,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:42",
+    "channelOrder": 266
+  },
+  {
+    "id": "0yoRwJultl4",
+    "title": "2019 AMC 10A #5",
+    "originalTitle": "2019 AMC 10A #5",
+    "category": "competition",
+    "topic": "2019 AMC",
+    "format": "whiteboard",
+    "sourceOrder": 259,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:42",
+    "channelOrder": 267
+  },
+  {
+    "id": "46o5psoFS68",
+    "title": "2018 AMC 10A — Problem 3",
+    "originalTitle": "2018 AM. 10A #3",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 260,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:12",
+    "channelOrder": 268
+  },
+  {
+    "id": "1nvs5Wu_WgY",
+    "title": "2010 AMC 10A #3",
+    "originalTitle": "2010 AMC 10A #3",
+    "category": "competition",
+    "topic": "2010 AMC",
+    "format": "whiteboard",
+    "sourceOrder": 261,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:27",
+    "channelOrder": 269
+  },
+  {
+    "id": "r_sm6q3AolI",
+    "title": "Hyperbola",
+    "originalTitle": "Hyperbola",
+    "category": "geometry",
+    "topic": "Coordinates & Conics",
+    "format": "whiteboard",
+    "sourceOrder": 262,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:49",
+    "channelOrder": 270
+  },
+  {
+    "id": "Ji4gCRplvMU",
+    "title": "Introduction to Digit Problems",
+    "originalTitle": "Introduction to Digit Problems",
+    "category": "number-theory",
+    "topic": "Digits & Place Value",
+    "format": "whiteboard",
+    "sourceOrder": 263,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:12",
+    "channelOrder": 271
+  },
+  {
+    "id": "XWGwhmpQYAE",
+    "title": "2019 AMC 10A #11",
+    "originalTitle": "2019 AMC 10A #11",
+    "category": "competition",
+    "topic": "2019 AMC",
+    "format": "whiteboard",
+    "sourceOrder": 264,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:56",
+    "channelOrder": 272
+  },
+  {
+    "id": "TP5okpbB4cU",
+    "title": "2019 AMC 10A #12",
+    "originalTitle": "2019 AMC 10A #12",
+    "category": "competition",
+    "topic": "2019 AMC",
+    "format": "whiteboard",
+    "sourceOrder": 265,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "5:42",
+    "channelOrder": 273
+  },
+  {
+    "id": "cYHMZiExDJQ",
+    "title": "2016 AMC 10A #11",
+    "originalTitle": "2016 AMC 10A #11",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 266,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "5:05",
+    "channelOrder": 274
+  },
+  {
+    "id": "MMDTGMLB66w",
+    "title": "Graphing Ellipses",
+    "originalTitle": "Graphing Ellipses",
+    "category": "geometry",
+    "topic": "Coordinates & Conics",
+    "format": "whiteboard",
+    "sourceOrder": 267,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:40",
+    "channelOrder": 275
+  },
+  {
+    "id": "6-lxk1WtycM",
+    "title": "Graphing Ellipse Equations",
+    "originalTitle": "Graphing Ellipse Equations",
+    "category": "geometry",
+    "topic": "Coordinates & Conics",
+    "format": "whiteboard",
+    "sourceOrder": 268,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:08",
+    "channelOrder": 276
+  },
+  {
+    "id": "G2WjvxOlKbA",
+    "title": "Parabola",
+    "originalTitle": "Parabola",
+    "category": "geometry",
+    "topic": "Coordinates & Conics",
+    "format": "whiteboard",
+    "sourceOrder": 269,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:57",
+    "channelOrder": 277
+  },
+  {
+    "id": "L7btkzzEOdQ",
+    "title": "Spot the Mistake",
+    "originalTitle": "Spot the Mistake",
+    "category": "algebra",
+    "topic": "Equations & Expressions",
+    "format": "whiteboard",
+    "sourceOrder": 270,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:07",
+    "channelOrder": 278
+  },
+  {
+    "id": "egBqPqtEAOI",
+    "title": "Vector Addition and Subtraction",
+    "originalTitle": "Vector Addition and Subtraction",
+    "category": "vectors",
+    "topic": "Vector Basics",
+    "format": "whiteboard",
+    "sourceOrder": 271,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:51",
+    "channelOrder": 279
+  },
+  {
+    "id": "lVHv23694HA",
+    "title": "Triangles and Squares",
+    "originalTitle": "Triangles and Squarez",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "whiteboard",
+    "sourceOrder": 272,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "7:10",
+    "channelOrder": 280
+  },
+  {
+    "id": "-AnAHu9w7UE",
+    "title": "Similar Triangles and Right Angles",
+    "originalTitle": "Similar Triangles and Right Angles",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "whiteboard",
+    "sourceOrder": 273,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "6:10",
+    "channelOrder": 281
+  },
+  {
+    "id": "1N0KcPLd4qk",
+    "title": "2014 AMC 10A #10 and 2014 AMC 12A #9",
+    "originalTitle": "2014 AMC 10A #10 and 2014 AMC 12A #9",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 274,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:24",
+    "channelOrder": 282
+  },
+  {
+    "id": "tcTmoC33LHs",
+    "title": "Equilateral Triangles",
+    "originalTitle": "Equilateral Triangles",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "whiteboard",
+    "sourceOrder": 275,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:45",
+    "channelOrder": 283
+  },
+  {
+    "id": "lJV-NWz9XZI",
+    "title": "AMC Triangle Construction",
+    "originalTitle": "AMC Triangle Construction",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 276,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "5:39",
+    "channelOrder": 284
+  },
+  {
+    "id": "eSvjaTOmtEE",
+    "title": "Parallel Lines and Triangles",
+    "originalTitle": "Parallel Lines and Triangles",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "whiteboard",
+    "sourceOrder": 277,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:25",
+    "channelOrder": 285
+  },
+  {
+    "id": "zzmbQVRnuDI",
+    "title": "Triangle Area",
+    "originalTitle": "Triangle Area",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "whiteboard",
+    "sourceOrder": 278,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:50",
+    "channelOrder": 286
+  },
+  {
+    "id": "cKERqekyQvA",
+    "title": "Vertical Pole Problem",
+    "originalTitle": "Vertical Pole Problem",
+    "category": "geometry",
+    "topic": "Area & Geometry Problems",
+    "format": "whiteboard",
+    "sourceOrder": 279,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:27",
+    "channelOrder": 287
+  },
+  {
+    "id": "lVuzESnbddg",
+    "title": "2005 AMC 10A #10",
+    "originalTitle": "2005 AMC 10A #10",
+    "category": "competition",
+    "topic": "2005 AMC",
+    "format": "whiteboard",
+    "sourceOrder": 280,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:04",
+    "channelOrder": 288
+  },
+  {
+    "id": "mPxDi4XG-c0",
+    "title": "2005 AMC 10A #9",
+    "originalTitle": "2005 AMC 10A #9",
+    "category": "competition",
+    "topic": "2005 AMC",
+    "format": "whiteboard",
+    "sourceOrder": 281,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:27",
+    "channelOrder": 289
+  },
+  {
+    "id": "F0kudfsO_QM",
+    "title": "2019 AMC 10B #15",
+    "originalTitle": "2019 AMC 10B #15",
+    "category": "competition",
+    "topic": "2019 AMC",
+    "format": "whiteboard",
+    "sourceOrder": 282,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "9:50",
+    "channelOrder": 290
+  },
+  {
+    "id": "dBCuwvn8ldA",
+    "title": "2019 AMC 10B #16",
+    "originalTitle": "2019 AMC 10B #16",
+    "category": "competition",
+    "topic": "2019 AMC",
+    "format": "whiteboard",
+    "sourceOrder": 283,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "7:38",
+    "channelOrder": 291
+  },
+  {
+    "id": "ygbqXOMG1kk",
+    "title": "2004 AMC 10A #22",
+    "originalTitle": "2004 AMC 10A #22",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 284,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "7:21",
+    "channelOrder": 292
+  },
+  {
+    "id": "jd6362kU0Uw",
+    "title": "Triangles and the Pythagorean Theorem",
+    "originalTitle": "Triangles and the Pythagorean Theorem",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "whiteboard",
+    "sourceOrder": 285,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:34",
+    "channelOrder": 293
+  },
+  {
+    "id": "D1GR1OGpzUc",
+    "title": "Finding Missing Lengths in Triangles",
+    "originalTitle": "Finding Missing Lengths in Triangles",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "whiteboard",
+    "sourceOrder": 286,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:38",
+    "channelOrder": 294
+  },
+  {
+    "id": "l557SPULyVs",
+    "title": "Perimeter and Pythagorean Theorem",
+    "originalTitle": "Perimeter and Pythagorean Theorem",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "whiteboard",
+    "sourceOrder": 287,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:56",
+    "channelOrder": 295
+  },
+  {
+    "id": "18W2X0Czo88",
+    "title": "TWO Pythagorean Problems",
+    "originalTitle": "TWO Pythagorean Problems",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "whiteboard",
+    "sourceOrder": 288,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:30",
+    "channelOrder": 296
+  },
+  {
+    "id": "N5JgyCXU5Ks",
+    "title": "Finding Area of Triangles",
+    "originalTitle": "Finding Area of Triangles",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "whiteboard",
+    "sourceOrder": 289,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:27",
+    "channelOrder": 297
+  },
+  {
+    "id": "IeDvf4phwh8",
+    "title": "1989 National Target",
+    "originalTitle": "1989 National Target",
+    "category": "competition",
+    "topic": "Other Contests",
+    "format": "whiteboard",
+    "sourceOrder": 290,
+    "tags": [
+      "contest"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "4:17",
+    "channelOrder": 298
+  },
+  {
+    "id": "EMr3Gq1e4L4",
+    "title": "2000 National Sprint",
+    "originalTitle": "2000 National Sprint",
+    "category": "competition",
+    "topic": "Other Contests",
+    "format": "whiteboard",
+    "sourceOrder": 291,
+    "tags": [
+      "contest"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "4:25",
+    "channelOrder": 299
+  },
+  {
+    "id": "iuCafHBF2sA",
+    "title": "f(x) = x + cos(x)",
+    "originalTitle": "f(x) = x + cos(x)",
+    "category": "calculus",
+    "topic": "Derivatives & Applications",
+    "format": "whiteboard",
+    "sourceOrder": 292,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "8:26",
+    "channelOrder": 300
+  },
+  {
+    "id": "BC4LPcSUlp8",
+    "title": "2018 AMC 10B #13",
+    "originalTitle": "2018 AMC 10B #13",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "whiteboard",
+    "sourceOrder": 293,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "4:36",
+    "channelOrder": 301
+  },
+  {
+    "id": "xb0KWnhjbXA",
+    "title": "2018 AMC 10A #15",
+    "originalTitle": "2018 AMC 10A #15",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 294,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:47",
+    "channelOrder": 302
+  },
+  {
+    "id": "M7rVamZ5A8A",
+    "title": "Pythagorean Theorem and Line Segments",
+    "originalTitle": "Pythagorean Theorem and Line Segments",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "paper",
+    "sourceOrder": 295,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "7:53",
+    "channelOrder": 303
+  },
+  {
+    "id": "cbFPl4sKtsQ",
+    "title": "Palindrome",
+    "originalTitle": "Palindrome",
+    "category": "number-theory",
+    "topic": "Digits & Place Value",
+    "format": "paper",
+    "sourceOrder": 296,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "1:18",
+    "channelOrder": 304
+  },
+  {
+    "id": "ghow0K5YfAQ",
+    "title": "2001 AMC 12 #1 and 2001AMC 10 # 3",
+    "originalTitle": "2001 AMC 12 #1 and 2001AMC 10 # 3",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 297,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "0:59",
+    "channelOrder": 305
+  },
+  {
+    "id": "KganszpfoR0",
+    "title": "Altitude and Heron in a Problem",
+    "originalTitle": "Altitude and Heron in a Problem",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "paper",
+    "sourceOrder": 298,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:59",
+    "channelOrder": 306
+  },
+  {
+    "id": "rjRTV2u9qH4",
+    "title": "Cool Triangle Problems",
+    "originalTitle": "Cool Triangle Problems",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "paper",
+    "sourceOrder": 299,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:34",
+    "channelOrder": 307
+  },
+  {
+    "id": "vv6MQIzGGfY",
+    "title": "Shaded Area",
+    "originalTitle": "Shaded Area",
+    "category": "geometry",
+    "topic": "Area & Geometry Problems",
+    "format": "paper",
+    "sourceOrder": 300,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:59",
+    "channelOrder": 308
+  },
+  {
+    "id": "C7nj98ay-lc",
+    "title": "Pythagorean Theorem in Circles",
+    "originalTitle": "Pythagorean Theorem in Circles",
+    "category": "geometry",
+    "topic": "Circles",
+    "format": "paper",
+    "sourceOrder": 301,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:38",
+    "channelOrder": 309
+  },
+  {
+    "id": "58SHBQIz6Is",
+    "title": "2010 AMC 12A #7 and 2010 AMC 10A #12",
+    "originalTitle": "2010 AMC 12A #7 and 2010 AMC 10A #12",
+    "category": "competition",
+    "topic": "2010 AMC",
+    "format": "paper",
+    "sourceOrder": 302,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:57",
+    "channelOrder": 310
+  },
+  {
+    "id": "_z-k_MoPD44",
+    "title": "2010 AMC 10A #3",
+    "originalTitle": "2010 AMC 10A #3",
+    "category": "competition",
+    "topic": "2010 AMC",
+    "format": "paper",
+    "sourceOrder": 303,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:55",
+    "channelOrder": 311
+  },
+  {
+    "id": "oCX0j2QroJM",
+    "title": "2011 AMC 10B #8",
+    "originalTitle": "2011 AMC 10B #8",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 304,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:47",
+    "channelOrder": 312
+  },
+  {
+    "id": "sWypKYQGCGY",
+    "title": "2010 AMC 10B #1 and #2",
+    "originalTitle": "2010 AMC 10B #1 and #2",
+    "category": "competition",
+    "topic": "2010 AMC",
+    "format": "paper",
+    "sourceOrder": 305,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "2:58",
+    "channelOrder": 313
+  },
+  {
+    "id": "pFV1Bdcv1j4",
+    "title": "Solving Triangles using the Law of Cosines",
+    "originalTitle": "Solving Triangles using the Law of Cosines",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "paper",
+    "sourceOrder": 306,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:04",
+    "channelOrder": 314
+  },
+  {
+    "id": "IGg0VxRJxz4",
+    "title": "Pythagorean Theorem and Areas",
+    "originalTitle": "Pythagorean Theorem and Areas",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "paper",
+    "sourceOrder": 307,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:40",
+    "channelOrder": 315
+  },
+  {
+    "id": "N1HCZv1dsTI",
+    "title": "Proving the Pythagorean Theorem",
+    "originalTitle": "Proving the Pythagorean Theorem",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "paper",
+    "sourceOrder": 308,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:25",
+    "channelOrder": 316
+  },
+  {
+    "id": "ug7I2t9g37E",
+    "title": "2010 AMC 10B #11",
+    "originalTitle": "2010 AMC 10B #11",
+    "category": "competition",
+    "topic": "2010 AMC",
+    "format": "paper",
+    "sourceOrder": 309,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "6:48",
+    "channelOrder": 317
+  },
+  {
+    "id": "NkfeUaeJDgw",
+    "title": "2010 AMC 10B #14",
+    "originalTitle": "2010 AMC 10B #14",
+    "category": "competition",
+    "topic": "2010 AMC",
+    "format": "paper",
+    "sourceOrder": 310,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:43",
+    "channelOrder": 318
+  },
+  {
+    "id": "YC0i_xdhoc0",
+    "title": "Law of Sines",
+    "originalTitle": "Law of Sines",
+    "category": "trigonometry",
+    "topic": "Angles & Trig Functions",
+    "format": "paper",
+    "sourceOrder": 311,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:51",
+    "channelOrder": 319
+  },
+  {
+    "id": "OeGEOkQErQw",
+    "title": "2015 AMC 10B #11",
+    "originalTitle": "2015 AMC 10B #11",
+    "category": "competition",
+    "topic": "2015 AMC",
+    "format": "paper",
+    "sourceOrder": 312,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "4:39",
+    "channelOrder": 320
+  },
+  {
+    "id": "PlIBHV43FpI",
+    "title": "Solving Triangles",
+    "originalTitle": "Solving Triangles",
+    "category": "geometry",
+    "topic": "Triangles & Lengths",
+    "format": "paper",
+    "sourceOrder": 313,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "8:19",
+    "channelOrder": 321
+  },
+  {
+    "id": "gMwD5W4ymUQ",
+    "title": "2010 AMC 10B #9",
+    "originalTitle": "2010 AMC 10B #9",
+    "category": "competition",
+    "topic": "2010 AMC",
+    "format": "paper",
+    "sourceOrder": 314,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "5:44",
+    "channelOrder": 322
+  },
+  {
+    "id": "IUi1E3vpfXM",
+    "title": "Factoring Two Variables",
+    "originalTitle": "Factoring Two Variables",
+    "category": "algebra",
+    "topic": "Equations & Expressions",
+    "format": "paper",
+    "sourceOrder": 315,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "4:38",
+    "channelOrder": 323
+  },
+  {
+    "id": "QKux7HaAndk",
+    "title": "2014 AMC 10B #9",
+    "originalTitle": "2014 AMC 10B #9",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 316,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:14",
+    "channelOrder": 324
+  },
+  {
+    "id": "DJEjcf1mAFo",
+    "title": "2014 AMC 10B #7",
+    "originalTitle": "2014 AMC 10B #7",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 317,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:11",
+    "channelOrder": 325
+  },
+  {
+    "id": "BA4qqL6mC1A",
+    "title": "Positive Integer Solutions",
+    "originalTitle": "Integral Solutions",
+    "category": "number-theory",
+    "topic": "Diophantine Equations",
+    "format": "paper",
+    "sourceOrder": 318,
+    "tags": [
+      "competition",
+      "AMC",
+      "integer solutions"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:41",
+    "channelOrder": 326
+  },
+  {
+    "id": "nAu1nC-4PG0",
+    "title": "Prime Numbers",
+    "originalTitle": "Prime Numbers",
+    "category": "number-theory",
+    "topic": "Primes & Divisibility",
+    "format": "paper",
+    "sourceOrder": 319,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:42",
+    "channelOrder": 327
+  },
+  {
+    "id": "YV116ubJ9Os",
+    "title": "2016 AMC 10B #6",
+    "originalTitle": "2016 AMC 10B #6",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 320,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:24",
+    "channelOrder": 328
+  },
+  {
+    "id": "JR-PtHbJVAs",
+    "title": "2019 AMC 10B #6",
+    "originalTitle": "2019 AMC 10B #6",
+    "category": "competition",
+    "topic": "2019 AMC",
+    "format": "paper",
+    "sourceOrder": 321,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "5:05",
+    "channelOrder": 329
+  },
+  {
+    "id": "iMumJpnMZJY",
+    "title": "2002 AMC 10B",
+    "originalTitle": "2002 AMC 10B",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 322,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "4:36",
+    "channelOrder": 330
+  },
+  {
+    "id": "RmSS2VFDvLk",
+    "title": "1993 AMC 12",
+    "originalTitle": "1993 AMC 12",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 323,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:19",
+    "channelOrder": 331
+  },
+  {
+    "id": "JRVLfvUsHY0",
+    "title": "2019 AMC 12B #3",
+    "originalTitle": "2019 AMC 12B #3",
+    "category": "competition",
+    "topic": "2019 AMC",
+    "format": "paper",
+    "sourceOrder": 324,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:14",
+    "channelOrder": 332
+  },
+  {
+    "id": "YwYbvFmRxTw",
+    "title": "2019 AMC 10A #1",
+    "originalTitle": "2019 AMC 10A #1",
+    "category": "competition",
+    "topic": "2019 AMC",
+    "format": "paper",
+    "sourceOrder": 325,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:17",
+    "channelOrder": 333
+  },
+  {
+    "id": "kwR0BmgNloc",
+    "title": "Factoring Squared Variables",
+    "originalTitle": "Factoring Squared Variables",
+    "category": "algebra",
+    "topic": "Equations & Expressions",
+    "format": "paper",
+    "sourceOrder": 326,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:55",
+    "channelOrder": 334
+  },
+  {
+    "id": "48kb-qNbBSI",
+    "title": "Solving a Trigonometric Equation",
+    "originalTitle": "My Homework",
+    "category": "trigonometry",
+    "topic": "Trigonometric Equations",
+    "format": "paper",
+    "sourceOrder": 327,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:54",
+    "channelOrder": 335
+  },
+  {
+    "id": "fE21PZkyF-w",
+    "title": "2019 AMC 10B #6",
+    "originalTitle": "2019 AMC 10B #6",
+    "category": "competition",
+    "topic": "2019 AMC",
+    "format": "paper",
+    "sourceOrder": 328,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "4:16",
+    "channelOrder": 336
+  },
+  {
+    "id": "ZeOpH02DIC0",
+    "title": "Absolute Value",
+    "originalTitle": "Absolute Value",
+    "category": "algebra",
+    "topic": "Equations & Expressions",
+    "format": "paper",
+    "sourceOrder": 329,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "2:18",
+    "channelOrder": 337
+  },
+  {
+    "id": "K9cmM33mdv0",
+    "title": "2017 AMC 10B #10",
+    "originalTitle": "2017 AMC 10B #10",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 330,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:29",
+    "channelOrder": 338
+  },
+  {
+    "id": "67YftMh4jp8",
+    "title": "f(x) = 3sin(x)",
+    "originalTitle": "f(x) = 3sin(x)",
+    "category": "trigonometry",
+    "topic": "Trigonometric Equations",
+    "format": "paper",
+    "sourceOrder": 331,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "6:21",
+    "channelOrder": 339
+  },
+  {
+    "id": "bfzWZmTr_LY",
+    "title": "Trigonometric Equations",
+    "originalTitle": "Trigonometric Equations",
+    "category": "trigonometry",
+    "topic": "Trigonometric Equations",
+    "format": "paper",
+    "sourceOrder": 332,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:34",
+    "channelOrder": 340
+  },
+  {
+    "id": "yw8vwkCELSA",
+    "title": "2002 AMC 10B",
+    "originalTitle": "2002 AMC 10B",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 333,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "3:57",
+    "channelOrder": 341
+  },
+  {
+    "id": "bfwFJTv_kdc",
+    "title": "1993 AMC 12 and solutions to multivariate equations",
+    "originalTitle": "1993 AMC 12 and solutions to multivariate equations",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 334,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "8:37",
+    "channelOrder": 342
+  },
+  {
+    "id": "-SQ7kA8ulHc",
+    "title": "AIME II #1 2003",
+    "originalTitle": "AIME II #1 2003",
+    "category": "competition",
+    "topic": "AIME",
+    "format": "paper",
+    "sourceOrder": 335,
+    "tags": [
+      "contest"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "5:31",
+    "channelOrder": 343
+  },
+  {
+    "id": "Dh0riioUSVg",
+    "title": "Logical Reasoning",
+    "originalTitle": "Logical Reasoning",
+    "category": "number-theory",
+    "topic": "Induction & Reasoning",
+    "format": "paper",
+    "sourceOrder": 336,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:43",
+    "channelOrder": 344
+  },
+  {
+    "id": "dKmeeuo3mFg",
+    "title": "Primes",
+    "originalTitle": "Primes",
+    "category": "number-theory",
+    "topic": "Primes & Divisibility",
+    "format": "paper",
+    "sourceOrder": 337,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "5:27",
+    "channelOrder": 345
+  },
+  {
+    "id": "Gwgii0wsYOk",
+    "title": "Trig Identities",
+    "originalTitle": "Trig Identities",
+    "category": "trigonometry",
+    "topic": "Trigonometric Identities",
+    "format": "paper",
+    "sourceOrder": 338,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "9:11",
+    "channelOrder": 346
+  },
+  {
+    "id": "N3SgfDcSviM",
+    "title": "Cool Math Tricks",
+    "originalTitle": "Cool Math Tricks",
+    "category": "algebra",
+    "topic": "Equations & Expressions",
+    "format": "paper",
+    "sourceOrder": 339,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "6:01",
+    "channelOrder": 347
+  },
+  {
+    "id": "Zr0CUMDIRoY",
+    "title": "Ratios and Proportions",
+    "originalTitle": "Ratios and Porportions",
+    "category": "algebra",
+    "topic": "Ratios & Word Problems",
+    "format": "paper",
+    "sourceOrder": 340,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "3:05",
+    "channelOrder": 348
+  },
+  {
+    "id": "RuAdJKkAfDw",
+    "title": "Complex Ratios",
+    "originalTitle": "Complex Ratios",
+    "category": "algebra",
+    "topic": "Ratios & Word Problems",
+    "format": "paper",
+    "sourceOrder": 341,
+    "tags": [],
+    "reviewStatus": "reviewed",
+    "duration": "7:15",
+    "channelOrder": 349
+  },
+  {
+    "id": "3o2Sbi7X9ZY",
+    "title": "2004 AMC 10B #14",
+    "originalTitle": "2004 AMC 10B #14",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 342,
+    "tags": [
+      "AMC"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "4:15",
+    "channelOrder": 350
+  },
+  {
+    "id": "a9iMj7Uzfvc",
+    "title": "Minimum Counting",
+    "originalTitle": "Minimum Counting",
+    "category": "probability",
+    "topic": "Counting Methods",
+    "format": "paper",
+    "sourceOrder": 344,
+    "tags": [
+      "short lesson"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "0:50",
+    "channelOrder": 76
+  },
+  {
+    "id": "hp9HdIpGFsY",
+    "title": "Inclusive Counting with a Twist",
+    "originalTitle": "Inclusive Counting with a Twist",
+    "category": "probability",
+    "topic": "Counting Methods",
+    "format": "paper",
+    "sourceOrder": 345,
+    "tags": [
+      "short lesson"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "0:52",
+    "channelOrder": 78
+  },
+  {
+    "id": "ZS7BIkkTQtg",
+    "title": "Counting Slices",
+    "originalTitle": "Counting Slices",
+    "category": "probability",
+    "topic": "Counting Methods",
+    "format": "paper",
+    "sourceOrder": 346,
+    "tags": [
+      "short lesson"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "0:32",
+    "channelOrder": 80
+  },
+  {
+    "id": "ysfBIXEG9_k",
+    "title": "Exclusive Counting",
+    "originalTitle": "Exclusive Counting",
+    "category": "probability",
+    "topic": "Counting Methods",
+    "format": "paper",
+    "sourceOrder": 347,
+    "tags": [
+      "short lesson"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "0:55",
+    "channelOrder": 84
+  },
+  {
+    "id": "FnphnaHR5ac",
+    "title": "Finding Derivatives",
+    "originalTitle": "Finding Derivatives",
+    "category": "calculus",
+    "topic": "Derivatives & Applications",
+    "format": "paper",
+    "sourceOrder": 348,
+    "tags": [
+      "short lesson"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:00",
+    "channelOrder": 147
+  },
+  {
+    "id": "lVoGGLSFsHE",
+    "title": "2015 AMC 10B #1",
+    "originalTitle": "2015 AMC 10B #1",
+    "category": "competition",
+    "topic": "2015 AMC",
+    "format": "paper",
+    "sourceOrder": 349,
+    "tags": [
+      "short lesson"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "0:54",
+    "channelOrder": 215
+  },
+  {
+    "id": "sxiqi71drK8",
+    "title": "2000 AMC 12 #1 and 10 #1",
+    "originalTitle": "2000 AMC 12 #1 and 10 #1",
+    "category": "competition",
+    "topic": "More AMC Problems",
+    "format": "paper",
+    "sourceOrder": 350,
+    "tags": [
+      "short lesson"
+    ],
+    "reviewStatus": "reviewed",
+    "duration": "1:00",
+    "channelOrder": 219
+  }
+]

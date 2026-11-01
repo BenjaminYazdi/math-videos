@@ -1,0 +1,14 @@
+{
+  "name": "math-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Benjamin Yazdi's free math video library. A zero-dependency static website.",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=22" }
+}

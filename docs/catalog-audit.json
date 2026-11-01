@@ -1,0 +1,3167 @@
+{
+  "date": "2026-11-01",
+  "sourceRepository": "https://github.com/BenjaminYazdi/BenjaminYazdi.github.io",
+  "sourceCommit": "f80548a53895450e6fecbf61b468ced236fad5ac",
+  "channel": "https://www.youtube.com/@mathvideos6394",
+  "method": "The public channel uploads list was enumerated across four pages until no continuation remained. It returned 350 recorded videos and one old offline stream placeholder. The placeholder was excluded after Benjamin confirmed there is no livestream. All 350 recorded titles and thumbnails inspected, all 350 public embed metadata responses identify Math Videos, and ambiguous subjects resolved through sampled embedded playback and captions. Full videos were not watched end-to-end.",
+  "videos": [
+    {
+      "id": "j-88mSPbQRQ",
+      "originalCategory": "Vectors",
+      "category": "vectors",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "LZ5p7HOCQMg",
+      "originalCategory": "Vectors",
+      "category": "vectors",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "dC_tFYv1rGk",
+      "originalCategory": "Vectors",
+      "category": "vectors",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "T_PSFS-rTow",
+      "originalCategory": "Vectors",
+      "category": "vectors",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "tNH1VtLE3Bg",
+      "originalCategory": "Vectors",
+      "category": "vectors",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "bDR2yXKh-Gw",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "FLejpcJh38I",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "AUPGyc5g_BI",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "ROK72ToeHRg",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "nujJkmBzoLQ",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "9DmnKt4eQ3g",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "PGfv5UB4DDg",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "ToKwG72TLGs",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "d0ggjlFBasg",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "1VdNzHnd9ag",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "rkopXkG8It8",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "hdqvL4HK1wU",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "6IpbBytsXWg",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "PyRFTl8r7Es",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "UrFwhuouxO0",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "dZPtv7mUPv8",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "Tn7mgBSJ50Q",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "B-2Gg3ak87c",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "SHCHlO7R1Z0",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "yu6Z3KVA2ZQ",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "OGmbAosFiPk",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "4eA3PcZMfFU",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "c8aNMb1rb5M",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "iJ8cveRp9rk",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "vVN27_fD21Y",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "Nd9kyV8masQ",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "rV1z7OgsDxo",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "TEHV9sYMFBM",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "JovAvBlU8-Y",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "PWNbGSsrGyg",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "SOH_Zgl4kz8",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "xViVg33rtnw",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "5teZLDJZzb0",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "SCZlVxPMZTI",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "hpKtgV6uyi8",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "ECweDIRuD4k",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "NQh3yBCH6mM",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "IVihQfUHBL0",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "MINM81hINhw",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "91hOfa4SAq4",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "DBZLf19-SD4",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "WoKxyRkYpg8",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "7HavyhQaAq4",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "lhTR5CNqcD0",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "Ntz11XIPRVk",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "O8-osMAicUM",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "wBmTOL3NBAA",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "WlSCKxCX7SM",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "BF2JU8pydgI",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "lcVHobay9NY",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "QsnNad_Sq10",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "cmbLshybQAY",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "MI0nrxX0W2s",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "9K40kg9dYBg",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "3eaoTz883BY",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "Vvc5uyLRmhE",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "8NZcP5fRQxE",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "PuEm6oFnMsw",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "sMZYE6ixeT0",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "xZ07gDJJ28w",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "4x1dM19z7UI",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Two different uploads share the original title 2004 AMC 12A #9. Both retained; do not infer a missing problem number from sequence.",
+      "titleEdited": false
+    },
+    {
+      "id": "OgYsxxJw6ns",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "9JaY2fQ9LRI",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "7SNWTVXE6Qk",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "ShqXoWWtO8U",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "NdzEZlusVPw",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "SV1Bg4y66q0",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "tdSKfasTaVo",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "RapAwpbMbUQ",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "CkZ-dxWV1Yw",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "yWGJUIVI6VI",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "KYslesA1R0Q",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "y6W_WBs_HdA",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "UIroa145xeU",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "qmLKtvxFKCY",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "6d57wEq_wzA",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "80R6xqubXfQ",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "r0PY3vflFZU",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "O72zenkm49o",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "bGdo5Cuo2Hs",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "5ZYlaD-wdsY",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "JUG5OME9DAQ",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "-qX7Qdmsffg",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "VKZOL49DAng",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "OD7hkrsKZkk",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "c8b8_YT0HJI",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "9y6A9--kEI4",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "NYuv9QK9YNo",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "Bh_FAyqr8kI",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "r4LUb9TRm3c",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "IVLRWKOWnFs",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "4-HUZmbbN24",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "W1b78oiG6ZU",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "2mLF9EA_5rM",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "X1wzmoE-ghY",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "9Ascd7vSrNM",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "yUoD7lLZSoE",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "kzybi0Puic8",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "PB_03wT4ofQ",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "OBVZRZOkuPE",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "dzya8rY7W84",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "-AsHGJVj_k4",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "U-Pqmn9fP4U",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "3MgMYqJ4JBg",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "zeGLWP3aS8A",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "Xb16DAzAgzk",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "YQBpi0-7KSw",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "rYXKOvR71Dc",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "GIRKO6aDq9g",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "vAAO0reR4as",
+      "originalCategory": "Calculus",
+      "category": "trigonometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "This is a double-angle identity, not a calculus problem.",
+      "titleEdited": false
+    },
+    {
+      "id": "id57P-DIxrM",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "JrA_zbzHFCM",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "herLvuShqEw",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "-tuBDswGNjI",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "Iyg5z_qq2MY",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "9eyvKKL1AHQ",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "swCGnc4_log",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "OI51_mWeuz8",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "29a-W37qErQ",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "o-gKkJvIB7A",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "0-9030zUU_U",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "eLw4HLDBn54",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "qHqNzPlgb-M",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "CXiCfVnsaLA",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "ga22sC2i8bc",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "6qFGK8_N9ys",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "jvNlugYDBY4",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "Gmud9nMscOw",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "BAhoC-nZisg",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "SxDa_QYPgYA",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "SfFrOB24nw0",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "FWFyThBjvwU",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "YzKJku10dUM",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "hxAccTnfmQA",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "hjNWASy-cLo",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "f3YWlMQQTCk",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "1SZY_4JvJAA",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "SUmba88yP6o",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "Q5y_FS5qhH0",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "7c2EEkz3MUs",
+      "originalCategory": "Trigonometry",
+      "category": "trigonometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "3nL1oTDqZrY",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "VJuYF6qDYcY",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "0T_v1Ylbk9Q",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "T4MSTpOyz74",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "JNPThc7awrc",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "-X8RPpSqizo",
+      "originalCategory": "Calculus",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Infinite geometric series formula is an algebra topic; also tagged for calculus.",
+      "titleEdited": false
+    },
+    {
+      "id": "xetgGD8QVUE",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "LvFmYYk7ECE",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "GNfqqdMLsGk",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "8adZlmk81sQ",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "qu8eWRKXfh4",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "OJ76uOAmehg",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "Qm6RuxTBpls",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "LU9KQsSLAtQ",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "VKQ1Sgb-Fx4",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "CV8p2MZwx3M",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "RaG76znMvlI",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "9AIoRPl7MJU",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "zoDkqzGRcfA",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "xnwJws4y9kk",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "OW_xtrIKT8s",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "Z3umq8k7nak",
+      "originalCategory": "Trigonometry",
+      "category": "trigonometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "o4w8MJ_7tmU",
+      "originalCategory": "Trigonometry",
+      "category": "trigonometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "v8KE6pqOvdY",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "k7zLKlZE6WQ",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "BZ0lK2V2Bs8",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "vXNQZmqO20U",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "XEhhtIVgPQ0",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "P4gTvAc-4Zo",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "bNQlIsko3-s",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "dt8_ikxeT1U",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "uC4npJrdWF0",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "1dh22N2dI_A",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "m6_zuHIguMM",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "geLho_9LGxw",
+      "originalCategory": "Calculus",
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "2cir0tEoM68",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "eAYA2pWvaZY",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "2uh7oD4eF4c",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "TQeJ4igsOv4",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "3Hi0Y7V71XY",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "9L-LGIu6fe8",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "OXxVRFfx6Pg",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "qNlzFN8dck0",
+      "originalCategory": "Other explorations",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "Original title, thumbnails, sampled embedded playback, and visible captions",
+      "notes": "Embedded playback and captions show a base case n=1 followed by replacing n with k in an induction argument.",
+      "titleEdited": true
+    },
+    {
+      "id": "UgPgfwuyQXs",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "WekIJ_nnChw",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "dNIWo3Db08c",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Untitled. Visible prompt asks to solve an equation for x.",
+      "titleEdited": true
+    },
+    {
+      "id": "LjJYsdIU9n8",
+      "originalCategory": "Other explorations",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Medical-test word problem visible in thumbnail; classified as a probability application.",
+      "titleEdited": false
+    },
+    {
+      "id": "PQHRqm-OZj4",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Untitled. Thumbnail shows an algebraic expression; retain broad algebra category.",
+      "titleEdited": true
+    },
+    {
+      "id": "YxoVZZutDNE",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "X9b3cwUFp38",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "nWrh5X6U_5w",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "grLs9SUV7mI",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "CyWba8lH3Vo",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "uVlI_-JQDGc",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "Np4F1B4KcUs",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "5ChLbsAjBdk",
+      "originalCategory": "Other explorations",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Column-addition problem involving digits.",
+      "titleEdited": false
+    },
+    {
+      "id": "TbVJvzvgDZE",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "Gfnu4Lfdv98",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "al5N99OuZPY",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "8d_VPJqPoAA",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "xJpglG94COU",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "fQzpqn0J8kE",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "4smIs_nMCd4",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "EZH_dBoS5Ks",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "xOYA-nnzJUw",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "UFgltEjL3YQ",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "aAgaeO6wNOI",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "ZktJ8VzGJTY",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "P3J1DDyG-lI",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "cTI_x-MeVR8",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "KzuncuYb298",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "IlZPga_ov7g",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "YfXG0qwDds8",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "Ud6PabVw7SQ",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "QcXnTO44zZk",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "xwC2XbptfIk",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "Oz5SlyQ-T8k",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "kqrizzkUeaU",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "iFMemLau6wc",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "09WRbE9326k",
+      "originalCategory": "Trigonometry",
+      "category": "trigonometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "K2-0wiS4jK4",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "H4V_ghLEksw",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "0FVeaRPlqfs",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "VsCcOAhVyME",
+      "originalCategory": "Trigonometry",
+      "category": "trigonometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "wTa8YKfZkYk",
+      "originalCategory": "Trigonometry",
+      "category": "trigonometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "1AwJaQzcd4o",
+      "originalCategory": "Trigonometry",
+      "category": "trigonometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "zY0GD3lGg7c",
+      "originalCategory": "Trigonometry",
+      "category": "trigonometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "4sla8nNC-FY",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "Ol76ejYUI1E",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "n5CzGGa5oKA",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "inS21X8J9OA",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "-qzxKsikEZI",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "X2SMb7n7FqY",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "k_r_NsiL55w",
+      "originalCategory": "Probability & counting",
+      "category": "probability",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "maK-V--mlL0",
+      "originalCategory": "Other explorations",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "Original title, thumbnails, sampled embedded playback, and visible captions",
+      "notes": "Embedded playback shows offset rectangular blocks and discusses positioning a block just over halfway across another. Categorized as a geometric stacking/overhang problem.",
+      "titleEdited": false
+    },
+    {
+      "id": "GtAXiJg2bQ8",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "r0cpSt09Zsc",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "K3WPNd5tT2g",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "hnN0hblfIiY",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "5i0sEf6fYWk",
+      "originalCategory": "Trigonometry",
+      "category": "trigonometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "7STd7ZNyUh4",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "N36rWxDH-EM",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "rFcF-Brh7kg",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "6TIU3734i7Q",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "lmRxJcOEvKw",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "K6zc2-b8ksA",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "MJ5FcEIY7A0",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "YdK4ZaOeP3k",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "kUM_o2NkBf4",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "CKfV27FTxKg",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "zchdhtXFtro",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "MU_7aP9UQ30",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "ETH8VbQ0nyA",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "sO3zt_qvOJw",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "0yoRwJultl4",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "46o5psoFS68",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "1nvs5Wu_WgY",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "r_sm6q3AolI",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "Ji4gCRplvMU",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "XWGwhmpQYAE",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "TP5okpbB4cU",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "cYHMZiExDJQ",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "MMDTGMLB66w",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "6-lxk1WtycM",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "G2WjvxOlKbA",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "L7btkzzEOdQ",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "egBqPqtEAOI",
+      "originalCategory": "Vectors",
+      "category": "vectors",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "lVHv23694HA",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "-AnAHu9w7UE",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "1N0KcPLd4qk",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "tcTmoC33LHs",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "lJV-NWz9XZI",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "eSvjaTOmtEE",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "zzmbQVRnuDI",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "cKERqekyQvA",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "lVuzESnbddg",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "mPxDi4XG-c0",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "F0kudfsO_QM",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "dBCuwvn8ldA",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "ygbqXOMG1kk",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "jd6362kU0Uw",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "D1GR1OGpzUc",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "l557SPULyVs",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "18W2X0Czo88",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "N5JgyCXU5Ks",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "IeDvf4phwh8",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "EMr3Gq1e4L4",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "iuCafHBF2sA",
+      "originalCategory": "Trigonometry",
+      "category": "calculus",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Board shows derivative notation and monotonicity of x + cos(x).",
+      "titleEdited": false
+    },
+    {
+      "id": "BC4LPcSUlp8",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "whiteboard",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "xb0KWnhjbXA",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "M7rVamZ5A8A",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "cbFPl4sKtsQ",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "ghow0K5YfAQ",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "KganszpfoR0",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "rjRTV2u9qH4",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "vv6MQIzGGfY",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "C7nj98ay-lc",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "58SHBQIz6Is",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "_z-k_MoPD44",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "oCX0j2QroJM",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "sWypKYQGCGY",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "pFV1Bdcv1j4",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "IGg0VxRJxz4",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "N1HCZv1dsTI",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "ug7I2t9g37E",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "NkfeUaeJDgw",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "YC0i_xdhoc0",
+      "originalCategory": "Trigonometry",
+      "category": "trigonometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "OeGEOkQErQw",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "PlIBHV43FpI",
+      "originalCategory": "Geometry",
+      "category": "geometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "gMwD5W4ymUQ",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "IUi1E3vpfXM",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "QKux7HaAndk",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "DJEjcf1mAFo",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "BA4qqL6mC1A",
+      "originalCategory": "Calculus",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Integral means integer here. Visible book problem asks for positive integer solutions, not integration.",
+      "titleEdited": true
+    },
+    {
+      "id": "nAu1nC-4PG0",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "YV116ubJ9Os",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "JR-PtHbJVAs",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "iMumJpnMZJY",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "RmSS2VFDvLk",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "JRVLfvUsHY0",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "YwYbvFmRxTw",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "kwR0BmgNloc",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "48kb-qNbBSI",
+      "originalCategory": "Algebra",
+      "category": "trigonometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Visible page contains a trigonometric equation, including cos x = 1.",
+      "titleEdited": true
+    },
+    {
+      "id": "fE21PZkyF-w",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "ZeOpH02DIC0",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "K9cmM33mdv0",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "67YftMh4jp8",
+      "originalCategory": "Trigonometry",
+      "category": "trigonometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "bfzWZmTr_LY",
+      "originalCategory": "Trigonometry",
+      "category": "trigonometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "yw8vwkCELSA",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "bfwFJTv_kdc",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "-SQ7kA8ulHc",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "Dh0riioUSVg",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "dKmeeuo3mFg",
+      "originalCategory": "Number theory & proofs",
+      "category": "number-theory",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "Gwgii0wsYOk",
+      "originalCategory": "Trigonometry",
+      "category": "trigonometry",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "N3SgfDcSviM",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "Zr0CUMDIRoY",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": true
+    },
+    {
+      "id": "RuAdJKkAfDw",
+      "originalCategory": "Algebra",
+      "category": "algebra",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "3o2Sbi7X9ZY",
+      "originalCategory": "Competition problems",
+      "category": "competition",
+      "format": "paper",
+      "evidence": "YouTube title + visually reviewed thumbnail",
+      "notes": "Reviewed title and thumbnail; category retained.",
+      "titleEdited": false
+    },
+    {
+      "id": "a9iMj7Uzfvc",
+      "originalCategory": null,
+      "category": "probability",
+      "format": "paper",
+      "evidence": "Public channel uploads list + visually reviewed thumbnail; public embed metadata also verified for the seven recorded lessons.",
+      "notes": "Additional paper lesson recovered from the complete channel upload listing.",
+      "titleEdited": false
+    },
+    {
+      "id": "hp9HdIpGFsY",
+      "originalCategory": null,
+      "category": "probability",
+      "format": "paper",
+      "evidence": "Public channel uploads list + visually reviewed thumbnail; public embed metadata also verified for the seven recorded lessons.",
+      "notes": "Additional paper lesson recovered from the complete channel upload listing.",
+      "titleEdited": false
+    },
+    {
+      "id": "ZS7BIkkTQtg",
+      "originalCategory": null,
+      "category": "probability",
+      "format": "paper",
+      "evidence": "Public channel uploads list + visually reviewed thumbnail; public embed metadata also verified for the seven recorded lessons.",
+      "notes": "Additional paper lesson recovered from the complete channel upload listing.",
+      "titleEdited": false
+    },
+    {
+      "id": "ysfBIXEG9_k",
+      "originalCategory": null,
+      "category": "probability",
+      "format": "paper",
+      "evidence": "Public channel uploads list + visually reviewed thumbnail; public embed metadata also verified for the seven recorded lessons.",
+      "notes": "Additional paper lesson recovered from the complete channel upload listing.",
+      "titleEdited": false
+    },
+    {
+      "id": "FnphnaHR5ac",
+      "originalCategory": null,
+      "category": "calculus",
+      "format": "paper",
+      "evidence": "Public channel uploads list + visually reviewed thumbnail; public embed metadata also verified for the seven recorded lessons.",
+      "notes": "Additional paper lesson recovered from the complete channel upload listing.",
+      "titleEdited": false
+    },
+    {
+      "id": "lVoGGLSFsHE",
+      "originalCategory": null,
+      "category": "competition",
+      "format": "paper",
+      "evidence": "Public channel uploads list + visually reviewed thumbnail; public embed metadata also verified for the seven recorded lessons.",
+      "notes": "Additional paper lesson recovered from the complete channel upload listing.",
+      "titleEdited": false
+    },
+    {
+      "id": "sxiqi71drK8",
+      "originalCategory": null,
+      "category": "competition",
+      "format": "paper",
+      "evidence": "Public channel uploads list + visually reviewed thumbnail; public embed metadata also verified for the seven recorded lessons.",
+      "notes": "Additional paper lesson recovered from the complete channel upload listing.",
+      "titleEdited": false
+    }
+  ],
+  "channelSnapshot": "channel-uploads.json",
+  "excludedEntries": [
+    {
+      "id": "hrGzJkbr1Zw",
+      "title": "Math Videos Live Stream",
+      "reason": "Channel metadata contains an old, offline placeholder with no playable recording. Benjamin confirmed there is no livestream. Excluded from the website and all video counts."
+    }
+  ]
+}
