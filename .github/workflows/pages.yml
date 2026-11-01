@@ -52,7 +52,7 @@ jobs:
       - name: Verify the separate domain in Pages settings
         env:
           GH_TOKEN: ${{ github.token }}
-          EXPECTED_DOMAIN: mathematics-videos.com
+          EXPECTED_DOMAIN: mathematicsvideos.org
         shell: bash
         run: |
           actual_domain=$(gh api "repos/$GITHUB_REPOSITORY/pages" --jq .cname)
